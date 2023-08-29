@@ -3,7 +3,7 @@ Count Primes on Leetcode: https://leetcode.com/problems/count-primes/
 **Brute Force**
 Exceeds time on a larger number
 
-
+```
 class Solution {
 public:
     bool isprime(int num){
@@ -24,9 +24,11 @@ public:
     return count;
     }
 };
+```
 
 **Sieve**
 
+```
 class Solution {
 public:
 
@@ -59,6 +61,7 @@ public:
     return count;
     }
 };
+```
 
 **Optimized Sieve**
 
