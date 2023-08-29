@@ -3,6 +3,8 @@ Count Primes on Leetcode: https://leetcode.com/problems/count-primes/
 **Brute Force**
 Exceeds time on a larger number
 
+**Time Complexity** : O(N*N)
+
 ```
 class Solution {
 public:
@@ -26,7 +28,10 @@ public:
 };
 ```
 
-**Sieve**
+# Sieve
+
+**Time Complexity** : O(N* log(log N))
+as good as O(N)
 
 ```
 class Solution {
@@ -62,6 +67,4 @@ public:
     }
 };
 ```
-
-**Optimized Sieve**
 
