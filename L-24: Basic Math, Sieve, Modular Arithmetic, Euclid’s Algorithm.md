@@ -1,7 +1,9 @@
-//Count Primes on Leetcode: https://leetcode.com/problems/count-primes/  
+Count Primes on Leetcode: https://leetcode.com/problems/count-primes/  
 
-//Brute Force
-//Exceeds time on larger number
+**Brute Force**
+Exceeds time on a larger number
+
+
 class Solution {
 public:
     bool isprime(int num){
@@ -23,7 +25,8 @@ public:
     }
 };
 
-//Sieve
+**Sieve**
+
 class Solution {
 public:
 
