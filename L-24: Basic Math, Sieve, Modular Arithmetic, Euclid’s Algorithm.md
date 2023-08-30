@@ -29,7 +29,7 @@ public:
 };
 ```
 
-# Sieve
+**Sieve**
 
 **Time Complexity** : O(N* log(log N))
 as good as O(N)
