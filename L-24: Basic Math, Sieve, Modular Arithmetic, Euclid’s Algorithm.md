@@ -72,7 +72,7 @@ public:
 # Find GCD of Array
 https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 
-**Euler's Formula**
+**Euclid's Formula**
 ```
 class Solution {
 public:
