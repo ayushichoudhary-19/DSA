@@ -1,4 +1,5 @@
-Count Primes on Leetcode: https://leetcode.com/problems/count-primes/  
+# Count Primes 
+Leetcode: https://leetcode.com/problems/count-primes/  
 
 **Brute Force**
 Exceeds time on a larger number
@@ -9,7 +10,7 @@ Exceeds time on a larger number
 class Solution {
 public:
     bool isprime(int num){
-        for(int i=2;i<num;i++){
+       A for(int i=2;i<num;i++){
             if(num%i==0){
                 return false;
             }
@@ -68,3 +69,36 @@ public:
 };
 ```
 
+# Find GCD of Array
+https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+
+**Euler's Formula**
+```
+class Solution {
+public:
+    int gcd(int a, int b){
+        if(a==0){
+            return b;
+        }
+        if(b==0){
+            return a;
+        }
+        if(a>b)
+        return gcd(a-b,b);
+        else
+        return gcd(a,b-a);
+    }
+
+    int findGCD(vector<int>& nums) {
+        int n = nums.size();
+        int smallest = nums[0];
+        int largest = nums[0];
+
+        for (int i = 1; i < n; ++i) {
+            smallest = min(smallest, nums[i]);
+            largest = max(largest, nums[i]);
+        }
+        return gcd(smallest,largest);
+    }
+};
+```
