@@ -28,7 +28,7 @@ struct node{
 }
 ```
 
-Function to display the elements in a LL
+**Function to display the elements in a LL**
 ```
 void Display(struct node *d){
     if(d==NULL){
@@ -44,7 +44,8 @@ void Display(struct node *d){
 }
 ```
 
-Function to insert an element with value x in a LL at a specific position
+**Function to insert an element with value x in a LL at a specific position**
+```
 void insertAtPos(int pos,char x){
     //create a node with data x;
     struct node* p;
@@ -67,6 +68,8 @@ void insertAtPos(int pos,char x){
     q->next=p;
     return;
 }
+```
+**Return last node**
 struct node * returnLastNode(struct node *first){
     struct node* s;
     s=first;
@@ -84,6 +87,8 @@ struct node * returnLastNode(struct node *first){
     }
 }
 
+**Return second last node**
+```
 char returnSecondLastNode(struct node *first)
 {
     struct node *s;
@@ -98,6 +103,10 @@ char returnSecondLastNode(struct node *first)
         return s->data;
     }
 }
+```
+
+**Return second last using friend concept**
+```
 char SecondLastUsingFriend(struct node *first){
     struct node *s,*fnd;
     s=first;
@@ -111,7 +120,9 @@ char SecondLastUsingFriend(struct node *first){
     }
     return fnd->data;
 }
-
+```
+**Insert a node with data x in the end of a LL**
+```
 void insertAtEnd(char x){
     struct node *s;
     struct node *p=new node;
@@ -131,6 +142,10 @@ void insertAtEnd(char x){
         return;
     }
 }
+```
+
+**Insert a node with data x before the node with data y**
+```
 void insertXbeforeY(){
     struct node *s,*fnd;
     //creating a node p with data x to be inserted
@@ -165,6 +180,10 @@ void insertXbeforeY(){
         return;
     }
 }
+```
+
+**Delete a node from the end of a LL**
+```
 void deleteAtEnd(){
     struct node* s=first, *fnd;
     if(s==NULL){
@@ -185,7 +204,9 @@ void deleteAtEnd(){
     fnd->next==NULL;
     return;
 }
-
+```
+**Delete a node that has x as it's data**
+```
 void deleteNodeWithDataX(struct node* first,char x){
     struct node* s=first, *fnd=NULL;
     if(s==NULL){
@@ -218,7 +239,9 @@ void deleteNodeWithDataX(struct node* first,char x){
         }
     }
 }
-
+```
+**Main function**
+```
 int main() {
 
     char A[]={'a','b','c','d'};
