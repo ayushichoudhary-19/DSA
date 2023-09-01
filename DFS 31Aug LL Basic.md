@@ -1,10 +1,35 @@
+# Single Linked List Basic Programs
+
+Structure of a node, will be given in problems
 ```#include <iostream>
 using namespace std;
 struct node{
     char data;
     struct node *next;
 }*first=NULL;
+```
 
+**Function to Create a LL from array elements**
+```void create(char A[],int n){
+    int i;
+    struct node *p,*last;
+    first=new node;
+    first->data=A[0];
+    first->next=NULL;
+    last=first;
+    
+    for(i=1;i<n;i++){
+        p=new node;
+        p->data=A[i];
+        p->next=NULL;
+        last->next=p;
+        last=p;
+    }
+}
+```
+
+Function to display the elements in a LL
+```
 void Display(struct node *d){
     if(d==NULL){
         cout<<"Empty LL";
@@ -17,6 +42,9 @@ void Display(struct node *d){
     cout<<endl;
     return;
 }
+```
+
+Function to insert an element with value x in a LL at a specific position
 void insertAtPos(int pos,char x){
     //create a node with data x;
     struct node* p;
@@ -38,23 +66,6 @@ void insertAtPos(int pos,char x){
     p->next=q->next;
     q->next=p;
     return;
-}
-
-void create(char A[],int n){
-    int i;
-    struct node *p,*last;
-    first=new node;
-    first->data=A[0];
-    first->next=NULL;
-    last=first;
-    
-    for(i=1;i<n;i++){
-        p=new node;
-        p->data=A[i];
-        p->next=NULL;
-        last->next=p;
-        last=p;
-    }
 }
 struct node * returnLastNode(struct node *first){
     struct node* s;
