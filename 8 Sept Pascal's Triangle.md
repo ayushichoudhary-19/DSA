@@ -16,11 +16,11 @@ private:
         so fact(r) also cancels some of them
         depending which is greater.
         for 10 C 3;
-        10*9*8 /
+        10 * 9 * 8 /
         3! * 5!;
         we use 3! as r as 5! get's cancelled
         but for 10 C 5;
-        10*9*8 /
+        10 * 9 * 8 /
         5! * 3!;
         we better consider (n-r)! as r because bigger one is r and it's being cancelled
         so whichever is smaller of the two we check nCr with that and other one is cancelled in num.
