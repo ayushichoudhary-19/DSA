@@ -1,6 +1,5 @@
-# Problem type- 1
+# Problem type- 1: Retrieving a Specific Row
 Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
-
 
 ## Extreme brute force:
 
@@ -65,6 +64,21 @@ public:
 };
 ```
 
+
+**Complete Code Explanation:**
+
+1. The `nCr` function calculates the binomial coefficient "n choose r" using factorials. It does so by multiplying `n` and dividing it by `r` while iterating through `r` elements.
+   - To optimize for efficiency, it checks whether `r` or `n-r` is smaller and calculates accordingly to reduce the number of multiplications.
+
+2. The `getRow` function takes the `rowIndex` as input and returns a vector representing the requested row.
+   - The row is zero-indexed, so the 0th row has 1 element, the 1st row has 2 elements, and so on.
+   - It initializes an empty vector `ans` to store the row elements.
+
+3. The loop runs from `col = 0` to `rowIndex`, inclusive, to populate the `ans` vector.
+   - For each `col`, it calculates the value using the `nCr` function and pushes it into the `ans` vector.
+   - The `nCr` function efficiently computes binomial coefficients.
+
+4. Finally, it returns the `ans` vector, which contains the requested row of Pascal's triangle.
 
 
 
@@ -131,3 +145,23 @@ public:
     }
 };
 ```
+
+
+**Code Explanation:**
+1. The `generate` function takes an integer `numRows` as input and returns a vector of vectors, where each inner vector represents a row of Pascal's triangle.
+
+2. It initializes an empty vector of vectors called `result` to store the triangle.
+
+3. A loop runs from `row = 1` to `numRows`, inclusive, to generate each row.
+   - For each row, it initializes an empty vector `ans` to store the row elements.
+   - The first element of each row is always 1, so it pushes 1 into `ans`.
+
+4. Within the row generation loop, there's another loop that runs from `col = 1` to `row - 1`. This loop calculates and adds the remaining elements of the row.
+   - It uses a variable `prod` to keep track of the product while avoiding integer overflow.
+   - The value for each element is calculated by multiplying `prod` by `(row - col)` and then dividing it by `col`.
+   - This efficient calculation avoids using factorials.
+
+5. After generating each row, the `ans` vector is pushed into the `result` vector, adding the row to Pascal's triangle.
+
+6. Finally, the function returns the `result` vector, which contains the first `numRows` of Pascal's triangle.
+
