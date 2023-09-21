@@ -9,4 +9,4 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 
 - LC 238. Product of Array Except for Self
   - <a href="https://leetcode.com/problems/product-of-array-except-self/description/"> Problem Link</a>
-  - <a href="https://leetcode.com/problems/product-of-array-except-self/description/"> Solutions</a>
+  - <a href="https://github.com/ayushichoudhary-19/3MonthDSA/blob/main/238.%20Product%20of%20Array%20Except%20Self.md"> Solutions</a>
