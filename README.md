@@ -10,3 +10,11 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 - LC 238. Product of Array Except for Self
   - <a href="https://leetcode.com/problems/product-of-array-except-self/description/"> Problem Link</a>
   - <a href="https://github.com/ayushichoudhary-19/3MonthDSA/blob/main/238.%20Product%20of%20Array%20Except%20Self.md"> Solutions</a>
+
+
+- LC 121. Best Time to Buy and Sell Stock
+  - <a href="https://leetcode.com/problems/product-of-array-except-self/description/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/"> Problem Link</a>
+  - <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/1735493/java-c-best-ever-explanation-could-possible/"> Solutions</a>
+
+
+
