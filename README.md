@@ -18,5 +18,5 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 
 - LC 2149. Rearrange Array Elements by Sign (22Sept,2023)
   - <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/description/"> Problem Link</a>
-  - <a href="https://github.com/ayushichoudhary-19/3MonthDSA/tree/main/Arrays/Medium/2149.%20Rearrange%20Array%20Elements%20by%20Sign"> Solutions</a>
+  - <a href="https://github.com/ayushichoudhary-19/3MonthDSA/blob/main/2149.%20Rearrange%20Array%20Elements%20by%20Sign.md"> Solutions</a>
 
