@@ -27,3 +27,10 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 - CN Leaders in an array (22Sept, 2023)
   - <a href="https://www.codingninjas.com/studio/problems/superior-elements_6783446"> Problem Link</a>
   - <a href="https://github.com/ayushichoudhary-19/3MonthDSA/blob/main/CN-Leaders%20In%20an%20Array.md"> Solutions</a>
+
+- ONE LEETCODE PROB SIMILAR TO ABOVE COMES HERE
+  
+- CN Longest Successive Elements (23Sept,2023)
+  - <a href="https://www.codingninjas.com/studio/problems/longest-successive-elements_6811740"> Problem Link</a>
+  - <a href="https://www.codingninjas.com/studio/problems/longest-successive-elements_6811740?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1"> Solutions</a>
+
