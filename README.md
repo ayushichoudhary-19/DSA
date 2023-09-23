@@ -20,3 +20,6 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
   - <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/description/"> Problem Link</a>
   - <a href="https://github.com/ayushichoudhary-19/3MonthDSA/blob/main/2149.%20Rearrange%20Array%20Elements%20by%20Sign.md"> Solutions</a>
 
+- LC 31. Next Permutation (22Sept, 2023)
+  - <a href="https://leetcode.com/problems/next-permutation/description/"> Problem Link</a>
+  - <a href="https://github.com/ayushichoudhary-19/3MonthDSA/blob/main/31.%20Next%20Permutation.md"> Solutions</a>
