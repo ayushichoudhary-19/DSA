@@ -17,16 +17,14 @@ private:
         
         if(root->val>=high || root->val<=low) return false;
         
-        bool left,right;
+        bool left=true,right=true;
         //check left and right subtree now that current node is correct 
         if(root->left)
                 left=validChecker(root->left,low,root->val);
                 if(!left) return false;
-        else left=true;
             
         if(root->right)
                right=validChecker(root->right,root->val,high); 
-        else right =true;
         
         return left&&right;
     }
@@ -34,7 +32,7 @@ public:
     bool isValidBST(TreeNode* root) {
         if(root==nullptr) return true;
          
-        //leaf node
+        //single node
         if(!root->left && !root->right) return true;
         
         //Starting range is [int_min to int_max]
