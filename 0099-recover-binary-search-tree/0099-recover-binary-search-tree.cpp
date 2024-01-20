@@ -10,34 +10,26 @@
  * };
  */
 class Solution {
-public:
-    void findInorder(TreeNode* root, vector<int>& inorder) {
-        if (root == nullptr) return;
-
-        findInorder(root->left, inorder);
-        inorder.push_back(root->val);
-        findInorder(root->right, inorder);
-    }
-    void helper(TreeNode* root, vector<int> inorder,int &index ){
+private:
+    void voilationDetection(TreeNode* root, vector<TreeNode*>&voilations,TreeNode* &prev){
         if(root==nullptr) return;
         
-        helper(root->left,inorder,index);
-        
-        if(inorder[index]!=root->val){
-            swap(inorder[index],root->val);
-                                    }
-        index++;
-        helper(root->right,inorder,index);
-
-        
+        voilationDetection(root->left,voilations,prev);
+        if(prev!=nullptr && prev->val>root->val){
+            voilations.push_back(prev);
+            voilations.push_back(root);
+        }
+        prev=root;
+        voilationDetection(root->right,voilations,prev);
     }
+public:
     void recoverTree(TreeNode* root) {
         if(root==nullptr) return;
-        
-        vector<int> inorder;
-        findInorder(root,inorder);
-        sort(inorder.begin(),inorder.end());
-        int index=0;      
-        helper(root,inorder,index);
+        //storing voilations in increasing inorder
+        vector<TreeNode*> voilations;
+        TreeNode* prev=nullptr;
+        voilationDetection(root,voilations,prev);
+        if (!voilations.empty()) 
+         swap(voilations[0]->val,voilations[voilations.size()-1]->val);
     }
 };
