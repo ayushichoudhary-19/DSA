@@ -2,19 +2,12 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
         int size=nums.size();
-        vector<int> pos;
-        vector<int> neg;
         
+        vector<int> ans(size,0);
+        int pos=0,neg=1;
         for(auto num:nums){
-            if(num>0) pos.push_back(num);
-            else neg.push_back(num);
-        }
-        
-        // merge two arrays
-        vector<int> ans;
-        for(int i=0;i<size/2;i++){
-            ans.push_back(pos[i]);
-            ans.push_back(neg[i]);
+            if (num>0) {ans[pos]=num; pos+=2;}
+            else {ans[neg]=num; neg+=2;}
         }
         return ans;
     }
