@@ -57,6 +57,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -66,12 +67,15 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
