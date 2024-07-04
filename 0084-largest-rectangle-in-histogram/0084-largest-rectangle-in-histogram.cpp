@@ -4,7 +4,7 @@ public:
         int size=heights.size();
         stack<int> st;
         for(int i=0; i<size; i++){
-            while(!st.empty() && heights[st.top()]>heights[i]){
+            while(!st.empty() && heights[st.top()]>=heights[i]){
                 st.pop();
             }
             if(st.empty()) nsl[i]=-1;
@@ -18,10 +18,10 @@ public:
         int size=heights.size();
         stack<int> st;
         for(int i=size-1; i>=0; i--){
-            while(!st.empty() && heights[st.top()]>heights[i]){
+            while(!st.empty() && heights[st.top()]>=heights[i]){
                 st.pop();
             }
-            if(st.empty()) nsr[i]=-1;
+            if(st.empty()) nsr[i]=size;
             else nsr[i]=st.top();
             
             st.push(i);
