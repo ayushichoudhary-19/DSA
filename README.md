@@ -59,6 +59,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushichoudhary-19/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -96,6 +97,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
