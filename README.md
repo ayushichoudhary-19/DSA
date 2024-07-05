@@ -48,6 +48,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0086-partition-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
