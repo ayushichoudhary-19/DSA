@@ -1,26 +1,34 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stack<string> st;
-        string word;
-        for(auto ch:s){
-            if(word==" ") word="";
-            if(ch==' ' && word.length()>0) {
-                st.push(word);
-                word="";
-            }
-            else word+=ch;
-        }
-        if(word.length()>0 && word!=" ") {
-                st.push(word);
-        }
         string ans;
-        while(st.size()>1){
-            ans+=st.top()+' ';
-            st.pop();
+        string word;
+        int n = s.size();
+        
+        for (int i = 0; i < n; ++i) {
+            char ch = s[i];
+            if (ch != ' ') {
+                word += ch;
+            } else if (ch == ' ') {
+                if (!word.empty()) { // Only add non-empty words
+                    if (ans.empty()) {
+                        ans = word; // For the first word, no need to add a space
+                    } else {
+                        ans = word + " " + ans; // Prepend word to the answer
+                    }
+                    word = "";
+                }
+            }
         }
-        //last word
-        ans+=st.top();
+        
+        if (!word.empty()) {
+            if (ans.empty()) {
+                ans = word;
+            } else {
+                ans = word + " " + ans;
+            }
+        }
+        
         return ans;
     }
 };
