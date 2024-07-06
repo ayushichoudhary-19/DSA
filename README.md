@@ -78,6 +78,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
@@ -152,6 +153,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ayushichoudhary-19/DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -159,6 +161,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
