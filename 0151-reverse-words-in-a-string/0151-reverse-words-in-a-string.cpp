@@ -1,26 +1,26 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> sen;
+        stack<string> st;
         string word;
-        for(int ch=0; ch<s.length(); ch++){
-            if(s[ch]==' '){
-                if(word.length()>0) sen.push_back(word);
-                word="";}
-            else word+=s[ch];
+        for(auto ch:s){
+            if(word==" ") word="";
+            if(ch==' ' && word.length()>0) {
+                st.push(word);
+                word="";
+            }
+            else word+=ch;
         }
-        
-        if(word.length()>0) sen.push_back(word);
-        for(auto word:sen){
-            cout<<"\""<<word<<"\""<<" ";
+        if(word.length()>0 && word!=" ") {
+                st.push(word);
         }
-
         string ans;
-        int senLen=sen.size();
-        for(int word=senLen-1; word>0; word--){
-            ans+=sen[word]+' ';
+        while(st.size()>1){
+            ans+=st.top()+' ';
+            st.pop();
         }
-        ans+=sen[0];
+        //last word
+        ans+=st.top();
         return ans;
     }
 };
