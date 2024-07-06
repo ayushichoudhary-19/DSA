@@ -111,6 +111,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0031-next-permutation](https://github.com/ayushichoudhary-19/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0086-partition-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
@@ -153,6 +154,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 ## Binary Search
 |  |
