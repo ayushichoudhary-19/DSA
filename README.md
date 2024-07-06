@@ -164,6 +164,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0008-string-to-integer-atoi](https://github.com/ayushichoudhary-19/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ayushichoudhary-19/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 ## Binary Search
@@ -174,4 +175,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayushichoudhary-19/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
