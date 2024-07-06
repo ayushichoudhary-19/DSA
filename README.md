@@ -108,6 +108,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/ayushichoudhary-19/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0086-partition-list) |
@@ -117,6 +118,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 ## Queue
 |  |
@@ -154,6 +156,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 ## Binary Search
