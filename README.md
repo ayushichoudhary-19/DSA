@@ -74,6 +74,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ayushichoudhary-19/DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ayushichoudhary-19/DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String
 |  |
 | ------- |
