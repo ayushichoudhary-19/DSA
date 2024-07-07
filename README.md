@@ -71,6 +71,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ayushichoudhary-19/DSA/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -157,6 +158,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
+| [1642-water-bottles](https://github.com/ayushichoudhary-19/DSA/tree/master/1642-water-bottles) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/ayushichoudhary-19/DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String
 |  |
