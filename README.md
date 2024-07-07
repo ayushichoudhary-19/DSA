@@ -174,6 +174,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayushichoudhary-19/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ayushichoudhary-19/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Binary Search
 |  |
 | ------- |
