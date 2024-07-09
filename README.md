@@ -183,6 +183,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0038-count-and-say](https://github.com/ayushichoudhary-19/DSA/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/ayushichoudhary-19/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -210,12 +211,14 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -223,5 +226,10 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
