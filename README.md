@@ -50,6 +50,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
@@ -74,6 +75,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ayushichoudhary-19/DSA/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
