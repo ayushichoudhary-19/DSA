@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-private:
+public:
     void findPreorder(TreeNode* root, vector<TreeNode*> &preorder){
         if(root==NULL) return;
         
@@ -18,22 +18,17 @@ private:
         findPreorder(root->left,preorder);
         findPreorder(root->right,preorder);
     }
-    
-public:
     void flatten(TreeNode* root) {
-        if(root==nullptr) return;
-        //find preorder
+        if(!root) return;
         vector<TreeNode*> preorder;
         findPreorder(root,preorder);
-        
-        //now link them
-        int i;
-        for(i=0;i<preorder.size()-1;i++){
-            preorder[i]->right=preorder[i+1];
+
+        for(int i=0; i<preorder.size()-1; i++){
             preorder[i]->left=NULL;
+            preorder[i]->right=preorder[i+1];
         }
-        //for the last node
-        preorder[preorder.size()-1]->left=NULL;
         preorder[preorder.size()-1]->right=NULL;
+        preorder[preorder.size()-1]->left=NULL;
+        return;
     }
 };
