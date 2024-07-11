@@ -57,6 +57,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ayushichoudhary-19/DSA/tree/master/2384-root-equals-sum-of-children) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -266,6 +269,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0543-diameter-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +293,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ayushichoudhary-19/DSA/tree/master/2384-root-equals-sum-of-children) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -306,4 +311,5 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
