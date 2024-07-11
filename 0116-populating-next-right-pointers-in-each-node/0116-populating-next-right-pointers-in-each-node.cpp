@@ -19,17 +19,25 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(root==NULL) return NULL;
+        Node* curr=root;
+        Node* nxt;
+        if(root!=nullptr) nxt=root->left;
+        else nxt=NULL;
 
-        if(!root->left && !root->right) {
-            return root;
+        while(curr && nxt){
+            curr->left->next = curr->right;
+            if(curr->next){
+                curr->right->next = curr->next->left;
+            }
+
+            curr=curr->next;
+            if(curr==NULL){
+                //move to next level
+                curr=nxt;
+                nxt=curr->left;
+            }
         }
-        root->left->next=root->right;
-        if(root->next) root->right->next=root->next->left;
-        else root->right->next=NULL;
-
-        connect(root->left);
-        connect(root->right);
         return root;
+
     }
 };
