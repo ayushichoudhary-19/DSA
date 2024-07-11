@@ -50,6 +50,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
+| [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/ayushichoudhary-19/DSA/tree/master/1293-three-consecutive-odds) |
@@ -106,6 +107,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ayushichoudhary-19/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/ayushichoudhary-19/DSA/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
@@ -325,4 +327,5 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
