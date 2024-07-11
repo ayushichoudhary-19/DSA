@@ -19,25 +19,17 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        queue<Node*> q;
-        if(root==NULL){
-            return NULL;
+        if(root==NULL) return NULL;
+
+        if(!root->left && !root->right) {
+            return root;
         }
+        root->left->next=root->right;
+        if(root->next) root->right->next=root->next->left;
+        else root->right->next=NULL;
 
-        q.push(root);
-
-        while(!q.empty()){
-            int size=q.size();
-
-            for(int i=0; i<size; i++){
-                Node* node = q.front();
-                q.pop();
-                if(i==size-1) node->next=NULL; 
-                else node->next=q.front();
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-            }
-        }
+        connect(root->left);
+        connect(root->right);
         return root;
     }
 };
