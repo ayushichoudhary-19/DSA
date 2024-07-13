@@ -11,24 +11,23 @@
  */
 class Solution {
 public:
-    void findPreorder(TreeNode* root, vector<TreeNode*> &preorder){
-        if(root==NULL) return;
-        
-        preorder.push_back(root);
-        findPreorder(root->left,preorder);
-        findPreorder(root->right,preorder);
-    }
     void flatten(TreeNode* root) {
-        if(!root) return;
-        vector<TreeNode*> preorder;
-        findPreorder(root,preorder);
+        stack<TreeNode*> st;
 
-        for(int i=0; i<preorder.size()-1; i++){
-            preorder[i]->left=NULL;
-            preorder[i]->right=preorder[i+1];
+        if(root==NULL) return;
+
+        st.push(root);
+
+        while(!st.empty()){
+            TreeNode* curr = st.top();
+            st.pop();
+
+            if(curr->right) st.push(curr->right);
+            if(curr->left) st.push(curr->left);
+            if(!st.empty()) curr->right = st.top();
+
+            curr->left=NULL;
         }
-        preorder[preorder.size()-1]->right=NULL;
-        preorder[preorder.size()-1]->left=NULL;
-        return;
+
     }
 };
