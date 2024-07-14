@@ -203,6 +203,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
+| [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [1642-water-bottles](https://github.com/ayushichoudhary-19/DSA/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3336-water-bottles-ii) |
@@ -353,4 +354,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
