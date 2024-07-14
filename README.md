@@ -44,6 +44,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ayushichoudhary-19/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -65,6 +66,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
@@ -145,6 +147,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ayushichoudhary-19/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
