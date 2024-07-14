@@ -157,6 +157,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0005-longest-palindromic-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Queue
 |  |
@@ -357,5 +358,6 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
