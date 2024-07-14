@@ -1,16 +1,16 @@
 class Solution {
 public:
     int getSum(int a, int b) {
-        if(b>=0){
-            for(int i=1; i<=b; i++){
-                a++;
-            }
+        int sum = a^b;
+        int carry = (a&b)<<1;
+
+        while(carry!=0){
+            a=sum;
+            b=carry;
+            sum = a^b;
+            carry=(a&b)<<1;
+            
         }
-        else{
-            for(int i=b; i<0; i++){
-                a--;
-            }
-        }
-        return a;
+        return sum;
     }
 };
