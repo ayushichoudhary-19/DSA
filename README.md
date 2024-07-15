@@ -60,6 +60,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3463-alternating-groups-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3483-alternating-groups-ii) |
@@ -106,6 +107,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
 |  |
 | ------- |
@@ -281,6 +283,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayushichoudhary-19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/ayushichoudhary-19/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -332,6 +335,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayushichoudhary-19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/ayushichoudhary-19/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Backtracking
