@@ -37,12 +37,11 @@ public:
             if(isLeft) map[parent] -> left = map[child];
             else  map[parent]->right = map[child];  
         }
-
-        TreeNode *root;
+        
         for(auto it=map.begin(); it!=map.end(); it++){
             int node = it->first;
-            if(nonroot.find(node)==nonroot.end()) root = map[it->first];
+            if(nonroot.find(node)==nonroot.end()) return map[it->first];
         }
-        return root;
+        return nullptr;
     }
 };
