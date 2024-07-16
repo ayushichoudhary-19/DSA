@@ -1,21 +1,23 @@
 class Solution {
-private:
-    int solver(int row, int col,  vector<vector<int>> &dp){
-        //base case
-        if(row==0 && col==0) return 1;
-
-        if(row<0 || col<0) return 0;
-
-        if(dp[row][col]!=-1) return dp[row][col];
-
-        int down = solver(row-1, col, dp);
-        int left = solver(row,col-1, dp);
-
-        return dp[row][col] = down+left;
-    }
 public:
     int uniquePaths(int m, int n) {
         vector<vector<int>> dp(m, vector<int> (n,-1));
-        return solver(m-1,n-1,dp);
+        
+
+        //base case
+        dp[0][0]=1;
+        
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(i==0 && j==0) continue;
+                else{
+                int up=0, right=0;
+                if(i>0) up = dp[i-1][j];
+                if(j>0) right = dp[i][j-1];
+                dp[i][j] = up+right;
+                }
+            }
+        }
+        return dp[m-1][n-1];
     }
 };
