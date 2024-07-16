@@ -1,16 +1,21 @@
 class Solution {
+private:
+    int solve(vector<int>& nums, vector<int>& dp, int house){
+        if(house<0) return 0;
+        if(house==0) return nums[0];
+
+        if(dp[house]!=-1) return dp[house];
+
+        int pickThisHouse = nums[house] + solve(nums,dp,house-2);
+
+        int skipThisHouse = 0 + solve(nums,dp,house-1);
+
+        return dp[house] = max(pickThisHouse, skipThisHouse);
+    }
 public:
     int rob(vector<int>& nums) {
-        if(nums.size()<2) return nums[0];
-        
-         vector<int> dp(nums.size());
-        dp[0]=nums[0];
-        dp[1]=max(nums[0],nums[1]);
-        
-        for(int i=2;i<nums.size();i++){
-            dp[i]=max(dp[i-2]+nums[i], dp[i-1]);
-        }
-        //last element is the largest money that can be robbed
-        return dp[nums.size()-1];
+        int n=nums.size();
+        vector<int> dp(n,-1);
+        return solve(nums,dp,n-1);
     }
 };
