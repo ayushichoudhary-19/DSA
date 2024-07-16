@@ -1,30 +1,25 @@
 class Solution {
-private:
-    int solve(vector<vector<int>>& triangle, int m, int row, int col, vector<vector<int>>& dp){
-        
-        //base case
-        if(row==m-1) return triangle[row][col];
-
-        if(col > row+1) return INT_MAX;
-        if (dp[row][col] != -1) {
-            return dp[row][col];
-        }
-
-        
-        int next = solve(triangle, m, row+1, col, dp);
-        int adj = solve(triangle, m, row+1, col+1, dp);
-        
-        return dp[row][col] = triangle[row][col] + min(next, adj);
-
-    }
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int m=triangle.size();
         int n=triangle[m-1].size();
 
-        vector<vector<int>> dp(m,vector<int> (n,-1));
-        return solve(triangle, m, 0, 0, dp);
+        vector<vector<int>> dp(m,vector<int> (n,0));
 
+        //base case
+        for(int col=n-1; col>=0; col--){
+            dp[n-1][col]=triangle[n-1][col];
+        }
+
+        for(int row=n-2; row>=0; row--){
+            for(int col=row; col>=0; col--){
+                int prev = dp[row+1][col];
+                int adj = dp[row+1][col+1];
+                
+                dp[row][col] = triangle[row][col] + min(prev, adj);
+            }
+        }
+        return dp[0][0];
 
     }
 };
