@@ -1,21 +1,25 @@
 class Solution {
-private:
-    int solve(vector<int>& nums, vector<int>& dp, int house){
-        if(house<0) return 0;
-        if(house==0) return nums[0];
-
-        if(dp[house]!=-1) return dp[house];
-
-        int pickThisHouse = nums[house] + solve(nums,dp,house-2);
-
-        int skipThisHouse = 0 + solve(nums,dp,house-1);
-
-        return dp[house] = max(pickThisHouse, skipThisHouse);
-    }
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
         vector<int> dp(n,-1);
-        return solve(nums,dp,n-1);
+
+        //base case
+        dp[0] = nums[0];
+
+        for(int i=1; i<n; i++){
+            int pick;
+            if(i>1)
+                 pick = dp[i-2] + nums[i];
+            else pick = nums[1]; 
+
+            int nonpick = dp[i-1];
+
+           
+            dp[i] = max(pick,nonpick);
+        }
+        return dp[n-1];
+
+
     }
 };
