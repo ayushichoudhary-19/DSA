@@ -50,6 +50,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/ayushichoudhary-19/DSA/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -166,6 +167,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/ayushichoudhary-19/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Queue
