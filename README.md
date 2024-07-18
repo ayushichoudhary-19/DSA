@@ -56,6 +56,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0213-house-robber-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
+| [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
@@ -181,6 +182,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ayushichoudhary-19/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -213,6 +215,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayushichoudhary-19/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
