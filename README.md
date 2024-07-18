@@ -192,6 +192,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Queue
@@ -268,6 +269,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushichoudhary-19/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
