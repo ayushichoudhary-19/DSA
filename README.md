@@ -58,6 +58,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0503-next-greater-element-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
@@ -74,12 +75,14 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
@@ -163,6 +166,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
