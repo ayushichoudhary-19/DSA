@@ -1,26 +1,27 @@
 class Solution {
-private:
-    int solve(int idx, vector<int>& coins, int amount,vector<vector<int>> &dp ){
-
-        //base case
-        if(idx==0) {
-            if(amount%coins[0]==0) return amount/coins[0];
-            else return 1e9;
-        }
-
-        if(dp[idx][amount] != -1) return dp[idx][amount];
-
-        int pick = INT_MAX;
-        if(amount >= coins[idx]) pick = 1 + solve(idx, coins, amount-coins[idx],dp);
-        int nonpick = 0 + solve(idx-1, coins, amount, dp);
-
-        return dp[idx][amount] = min(pick,nonpick);
-    }
 public:
     int coinChange(vector<int>& coins, int amount) {
         int n=coins.size();
-        vector<vector<int>> dp(n, vector<int> (amount+1,-1));
-        int ans= solve(n-1,coins,amount,dp);
+        vector<vector<int>> dp(n, vector<int> (amount+1,0));
+
+        //base case
+       for(int target=0; target<=amount;  target++){
+        if(target%coins[0]==0)
+            dp[0][target] = target/coins[0];
+        else dp[0][target] = 1e9;
+        }
+
+        for(int idx=1; idx<n; idx++){
+            for(int target=0; target<=amount; target++){
+                int pick = 1e9;
+                if(target>=coins[idx]) pick = 1 + dp[idx][target-coins[idx]];
+                int nonpick = 0 + dp[idx-1][target];
+
+                dp[idx][target]=min(pick,nonpick);
+            }
+        }
+       
+        int ans= dp[n-1][amount];
 
         if(ans >= 1e9)
         return -1;
