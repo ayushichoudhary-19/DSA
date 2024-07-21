@@ -68,6 +68,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0503-next-greater-element-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -87,6 +88,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0044-wildcard-matching](https://github.com/ayushichoudhary-19/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
@@ -208,6 +210,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0494-target-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
