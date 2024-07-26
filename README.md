@@ -71,6 +71,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0503-next-greater-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -135,6 +136,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -233,6 +235,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayushichoudhary-19/DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3463-alternating-groups-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3463-alternating-groups-i) |
@@ -325,6 +328,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayushichoudhary-19/DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
