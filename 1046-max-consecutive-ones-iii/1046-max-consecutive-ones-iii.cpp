@@ -1,30 +1,36 @@
+#include <vector>
+#include <algorithm>
+#include <climits>
+
+using namespace std;
+
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        int K=k;
-        int ans=INT_MIN;
-        int cnt=0;
-        int l=0, r=0;
-        int n=nums.size();
-        while(l<=r && r<n){
-            if(nums[r]==1) {
-            r++;
-            cnt++;
-            }
-            else if(nums[r]==0 && K>0){
+        int K = k;
+        int ans = 0;
+        int l = 0, r = 0;
+        int n = nums.size();
+
+        while (l <= r && r < n) {
+            if (nums[r] == 1) {
                 r++;
-                cnt++;
+            } else if (nums[r] == 0 && K > 0) {
+                r++;
                 K--;
-            }
-            else{
-                //k is exhausted and 0 is found
-                ans=max(ans,cnt);
+            } else {
+                // k is exhausted and a 0 is found
+                while(nums[l]!=0){
+                    l++;
+                }
                 l++;
-                r=l;
-                cnt=0;
-                K=k;
+                r = l;
+                K = k;
             }
+
+            ans = max(ans, r-l);
         }
-        return max(ans,cnt);
+
+        return ans;
     }
 };
