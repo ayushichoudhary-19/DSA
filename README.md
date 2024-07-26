@@ -131,6 +131,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -229,6 +230,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [3463-alternating-groups-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3483-alternating-groups-ii) |
@@ -296,6 +298,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/ayushichoudhary-19/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
