@@ -1,18 +1,24 @@
 class Solution {
-public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        unordered_map<int,int> hashmap;
+private:
+    int helper(vector<int>& nums, int goal){
+        if(goal<0) return 0;
         int count = 0;
-        int prefixSum=0;
-        hashmap[0] = 1;
-        for(int i=0; i<nums.size(); i++){
-            prefixSum+=nums[i];
-            if(hashmap.find(prefixSum-goal)!=hashmap.end()){
-                //we found 
-                count+=hashmap[prefixSum-goal];
+        int l=0, r=0, n=nums.size();
+        int sum=0;
+        while(r<n){
+            sum+=nums[r];
+            while(sum > goal){
+                sum-=nums[l];
+                l++;
             }
-            hashmap[prefixSum]++;
+            count+= (r-l+1);
+            r++;
         }
         return count;
+    }
+public:
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+
+        return helper(nums,goal) - helper(nums,goal-1);
     }
 };
