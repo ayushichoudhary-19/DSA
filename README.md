@@ -88,6 +88,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2727-number-of-senior-citizens](https://github.com/ayushichoudhary-19/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3463-alternating-groups-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3483-alternating-groups-ii) |
 ## Greedy
@@ -326,6 +327,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushichoudhary-19/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayushichoudhary-19/DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2727-number-of-senior-citizens](https://github.com/ayushichoudhary-19/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
 |  |
 | ------- |
