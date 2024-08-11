@@ -59,6 +59,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0198-house-robber](https://github.com/ayushichoudhary-19/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/ayushichoudhary-19/DSA/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayushichoudhary-19/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -196,6 +197,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0086-partition-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/ayushichoudhary-19/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
