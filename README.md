@@ -297,6 +297,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/ayushichoudhary-19/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
@@ -337,6 +338,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushichoudhary-19/DSA/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0907-koko-eating-bananas](https://github.com/ayushichoudhary-19/DSA/tree/master/0907-koko-eating-bananas) |
