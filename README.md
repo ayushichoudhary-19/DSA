@@ -73,6 +73,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0503-next-greater-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/ayushichoudhary-19/DSA/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -116,6 +117,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
+| [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -154,6 +156,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -245,6 +248,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -338,6 +342,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -352,6 +357,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0069-sqrtx](https://github.com/ayushichoudhary-19/DSA/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/ayushichoudhary-19/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -374,6 +380,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushichoudhary-19/DSA/tree/master/0014-longest-common-prefix) |
+| [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 ## String Matching
 |  |
 | ------- |
