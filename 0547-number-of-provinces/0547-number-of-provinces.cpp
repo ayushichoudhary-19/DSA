@@ -1,36 +1,53 @@
-class Solution {
-private:
-    void dfs(int node, vector<int> &visited, vector<vector<int>>adjlist){
-        visited[node]=1;
-        for(int i=0;i<adjlist[node].size();i++){
-            int neig=adjlist[node][i];
-         if(!visited[neig]){
-              dfs(neig,visited,adjlist);
-         }
-        }
+class Solution
+{
+  private:
+    void bfs(int node, vector<vector<int>> &adjlist, vector<int> &vis) {
+        vis[node] = 1;
 
+        queue<int> q;
+        q.push(node);
+
+        while(!q.empty()){
+          node = q.front();
+          q.pop();
+
+          for(auto neigh: adjlist[node]){
+            if(!vis[neigh]){
+              vis[neigh] = 1;
+              q.push(neigh);
+            }
+          }
+        }
     }
-public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        vector<vector<int>>adjlist(n+1);
-        //convert the matrix to adjlist
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(isConnected[i][j]==1 && i!=j)
-                   adjlist[i+1].push_back(j+1);
-                }
+    int findNumberOfComponent(int V, vector<vector<int>> &adjlist) {
+      vector<int> vis(V, 0);
+
+      int cnt = 0;
+
+      for(int i = 0; i < V; i++){
+          if(!vis[i]){
+              cnt++;
+              // Perform BFS traversal
+              bfs(i, adjlist, vis);
+          }
+      }
+      return cnt;
+    }
+
+
+  public:
+    int findCircleNum(vector<vector<int>> adj) {
+        int V=adj.size();
         
+        vector<vector<int>> adjL(V);
+
+        for(int i=0; i<V; i++){
+            for(int j=0; j<V; j++){
+                if(adj[i][j]==1 && i!=j){
+                    adjL[i].push_back(j);
+                } 
+            }
         }
-        int provinces=0;
-        vector<int> visited(n+1,0);
-    //travese over the adjlist
-        for(int i=1;i<=n;i++){
-             if(!visited[i]){
-                dfs(i,visited,adjlist);
-                 provinces++;
-             }
-        }
-        return provinces;
+        return findNumberOfComponent(V,adjL);
     }
 };
