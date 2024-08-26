@@ -543,4 +543,5 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/ayushichoudhary-19/DSA/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/ayushichoudhary-19/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
