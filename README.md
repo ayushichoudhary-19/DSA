@@ -539,4 +539,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ayushichoudhary-19/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
