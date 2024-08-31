@@ -84,6 +84,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1293-three-consecutive-odds](https://github.com/ayushichoudhary-19/DSA/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushichoudhary-19/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -280,6 +281,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayushichoudhary-19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1325-path-with-maximum-probability) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -539,6 +541,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
+| [1325-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1325-path-with-maximum-probability) |
 ## Database
 |  |
 | ------- |
@@ -548,4 +551,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0620-not-boring-movies](https://github.com/ayushichoudhary-19/DSA/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/ayushichoudhary-19/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ayushichoudhary-19/DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
