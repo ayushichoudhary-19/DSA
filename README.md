@@ -95,6 +95,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushichoudhary-19/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ayushichoudhary-19/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -145,6 +146,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1642-water-bottles](https://github.com/ayushichoudhary-19/DSA/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ayushichoudhary-19/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3336-water-bottles-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3336-water-bottles-ii) |
@@ -309,6 +311,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ayushichoudhary-19/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Data Stream
 |  |
 | ------- |
