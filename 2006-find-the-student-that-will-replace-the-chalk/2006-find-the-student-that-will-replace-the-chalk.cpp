@@ -1,8 +1,30 @@
 class Solution {
+private:
+    int binarySearchForLowerBound(vector<long long> &prefixSum, long long k){
+        int low = 0, high = prefixSum.size()-1;
+
+        while(low<high){
+            int mid = (low)+ (high-low)/2;
+
+            if(prefixSum[mid] <= k){
+                low = mid + 1;
+            }
+            else high = mid;
+        }
+        return high;
+    }
 public:
     int chalkReplacer(vector<int>& chalk, int k) {
-        long long sum=0;
-        for(auto& ch:chalk) sum+=ch;
+       
+        int n = chalk.size();
+        vector<long long> prefixSum(n,0);
+        prefixSum[0] = chalk[0];
+        for(int i=1; i<n; i++){
+            prefixSum[i] = prefixSum[i-1] + chalk[i];
+        }
+
+        long long sum = prefixSum[n-1];
+        
 
         //fine rounds where k lasts for all
         long long f = k/sum;
@@ -10,13 +32,6 @@ public:
         //now whatever is left for that sum, we need to go over the chalk array
         long long kLeftAfterFineRounds = k%sum;
 
-        for(int i=0; i<chalk.size(); i++){
-            if(kLeftAfterFineRounds >= chalk[i]){
-                kLeftAfterFineRounds -= chalk[i];
-            }
-            else return i;
-        }        
-        return 0;
-
+        return binarySearchForLowerBound(prefixSum,kLeftAfterFineRounds);
     }
 };
