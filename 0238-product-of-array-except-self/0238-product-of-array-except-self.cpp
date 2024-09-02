@@ -3,17 +3,15 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> leftprod(n,1), rightprod(n,1);
-
+        vector<int> ans(n,1);
         for(int i=1; i<n; i++){
-            leftprod[i] = nums[i-1] * leftprod[i-1];
-            rightprod[n-i-1] = nums[n-i] * rightprod[n-i];
+            ans[i] = ans[i-1] * nums[i-1];
         }
-
-        vector<int> ans(n);
         
+        int rightprod = 1;
         for(int i=0; i<n; i++){
-            ans[i] = leftprod[i]*rightprod[i];
+            ans[n-i-1] *= rightprod;
+            rightprod *= nums[n-i-1];
         }
         return ans;
 
