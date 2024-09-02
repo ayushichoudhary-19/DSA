@@ -5,6 +5,9 @@ public:
         //min heap
         //unordered map
 
+        if(nums.size() == k) return nums;
+
+
         unordered_map<int,int> freq;
 
         for(auto& num: nums){
