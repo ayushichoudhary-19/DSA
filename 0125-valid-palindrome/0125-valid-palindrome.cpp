@@ -4,9 +4,10 @@ public:
         string snew;
 
         for(auto& ch: s){
-            if(ch <= 'Z' && ch >= 'A' || ch <= 'z' && ch >= 'a' || ch>= '0' && ch<= '9'){
+            if(isalpha(ch) || isdigit(ch)){
                 snew.push_back(tolower(ch));
             }
+            // else if(isdigit(ch))
         }
         string rev = snew;
         cout<<rev;
