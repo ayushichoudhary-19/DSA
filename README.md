@@ -156,6 +156,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1642-water-bottles](https://github.com/ayushichoudhary-19/DSA/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ayushichoudhary-19/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayushichoudhary-19/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushichoudhary-19/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -383,6 +384,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushichoudhary-19/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ayushichoudhary-19/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayushichoudhary-19/DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2727-number-of-senior-citizens](https://github.com/ayushichoudhary-19/DSA/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
