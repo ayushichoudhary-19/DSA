@@ -208,6 +208,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0094-binary-tree-inorder-traversal) |
@@ -363,6 +364,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushichoudhary-19/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ayushichoudhary-19/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ayushichoudhary-19/DSA/tree/master/0044-wildcard-matching) |
