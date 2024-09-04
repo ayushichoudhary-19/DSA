@@ -60,6 +60,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushichoudhary-19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushichoudhary-19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayushichoudhary-19/DSA/tree/master/0198-house-robber) |
@@ -217,6 +218,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushichoudhary-19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayushichoudhary-19/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0503-next-greater-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0503-next-greater-element-ii) |
@@ -352,6 +354,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0062-unique-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ayushichoudhary-19/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushichoudhary-19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
