@@ -1,29 +1,27 @@
 class Solution {
 public:
     vector<int> missingRolls(vector<int>& rolls, int mean, int n) {
-        int Sm = 0;
+        int Sm = accumulate(rolls.begin(), rolls.end(), 0);  // More concise sum calculation
         int m = rolls.size();
-        for(auto& num: rolls){
-            Sm += num;
-        }
 
-        int Sn = (n+m)*mean - Sm;
+        // Calculate the sum for the missing rolls
+        int Sn = (n + m) * mean - Sm;
 
-        if(Sn > n*6 || n > Sn) return {};
+        // If Sn is not within the possible range of dice rolls, return an empty vector
+        if (Sn > n * 6 || Sn < n) return {};
 
-        int eachRoll = Sn/n;
+        // Base value for each roll
+        int eachRoll = Sn / n;
+        int remainder = Sn % n;
+
+        // Initialize the result vector with the base value
         vector<int> nRolls(n, eachRoll);
-        
-        int remainder = Sn%n;
-        //now distribute this remainder in each value
 
-        for(int i=0; i<n && remainder>0; i++){
-            if (nRolls[i] < 6) {
-                nRolls[i]++;
-                remainder--;
-            }
+        // Distribute the remainder by incrementing the first 'remainder' rolls
+        for (int i = 0; i < remainder; i++) {
+            nRolls[i]++;
         }
-        return nRolls;
 
+        return nRolls;
     }
 };
