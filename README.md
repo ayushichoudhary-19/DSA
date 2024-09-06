@@ -114,6 +114,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [2727-number-of-senior-citizens](https://github.com/ayushichoudhary-19/DSA/tree/master/2727-number-of-senior-citizens) |
 | [3463-alternating-groups-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushichoudhary-19/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushichoudhary-19/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushichoudhary-19/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushichoudhary-19/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushichoudhary-19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushichoudhary-19/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
