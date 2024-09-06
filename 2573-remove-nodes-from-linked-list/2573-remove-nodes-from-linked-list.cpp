@@ -1,37 +1,50 @@
 class Solution {
+private:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = nullptr;
+        ListNode* current = head;
+        ListNode* nextTemp = nullptr;
+
+        // Set each node's next pointer to the previous node
+        while (current != nullptr) {
+            nextTemp = current->next;
+            current->next = prev;
+            prev = current;
+            current = nextTemp;
+        }
+        
+        return prev;
+    }
 public:
     ListNode* removeNodes(ListNode* head) {
-        stack<ListNode*> stack;
+        // Reverse the original linked list
+        head = reverseList(head);
+
+        int maximum = 0;
+        ListNode* prev = nullptr;
         ListNode* current = head;
 
-        // Add nodes to the stack
+        // Traverse the list deleting nodes
         while (current != nullptr) {
-            stack.push(current);
-            current = current->next;
-        }
+            maximum = max(maximum, current->val);
 
-        current = stack.top();
-        stack.pop();
-        int maximum = current->val;
-        ListNode* resultList = new ListNode(maximum);
-
-        // Remove nodes from the stack and add to result
-        while (!stack.empty()) {
-            current = stack.top();
-            stack.pop();
-            // Current should not be added to the result
+            // Delete nodes that are smaller than maximum
             if (current->val < maximum) {
-                continue;
+                // Delete current by skipping
+                prev->next = current->next;
+                ListNode* deleted = current;
+                current = current->next;
+                deleted->next = nullptr;
             }
-            // Add new node with current's value to front of the result
+
+            // Current does not need to be deleted
             else {
-                ListNode* newNode = new ListNode(current->val);
-                newNode->next = resultList;
-                resultList = newNode;
-                maximum = current->val;
+                prev = current;
+                current = current->next;
             }
         }
-
-        return resultList;
+        
+        // Reverse and return the modified linked list
+        return reverseList(head);
     }
 };
