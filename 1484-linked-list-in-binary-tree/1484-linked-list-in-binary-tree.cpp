@@ -25,10 +25,10 @@ public:
         if(!root) return false;
 
         bool result = dfs(head,root);
+
+        if(result) return true;
         
-        result = result || isSubPath(head, root->left);
-        result = result || isSubPath(head, root->right);
-        return result;
+        return isSubPath(head, root->left) || isSubPath(head, root->right);
     }
 
 private:
@@ -39,8 +39,10 @@ private:
         bool result = false;
 
         if(node->val == head-> val){
-            result = result || dfs(head->next, node->left);
-            result = result || dfs(head->next, node->right);
+           // Check both left and right subtrees, with early stopping
+            if (dfs(head->next, node->left) || dfs(head->next, node->right)) {
+                return true;
+            }
         }
         return result;
     }
