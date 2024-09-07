@@ -23,10 +23,10 @@ private:
     void findorder(vector<int> &ans, Node* root){
         if(root==NULL) return;
 
-        for(Node* child: root->children){
+        for(auto& child: root->children){
             findorder(ans,child);
         }
-        
+
         ans.push_back(root->val);
     }
 public:
