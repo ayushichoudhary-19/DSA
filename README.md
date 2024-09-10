@@ -624,6 +624,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0620-not-boring-movies](https://github.com/ayushichoudhary-19/DSA/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/ayushichoudhary-19/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ayushichoudhary-19/DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1908-recyclable-and-low-fat-products](https://github.com/ayushichoudhary-19/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 ## Shortest Path
 |  |
 | ------- |
