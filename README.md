@@ -586,6 +586,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/ayushichoudhary-19/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Memoization
 |  |
 | ------- |
