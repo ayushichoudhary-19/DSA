@@ -115,6 +115,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushichoudhary-19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/ayushichoudhary-19/DSA/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3463-alternating-groups-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushichoudhary-19/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -130,6 +131,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushichoudhary-19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -312,6 +314,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/ayushichoudhary-19/DSA/tree/master/1511-count-number-of-teams) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushichoudhary-19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Queue
 |  |
@@ -429,6 +432,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ayushichoudhary-19/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayushichoudhary-19/DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2727-number-of-senior-citizens](https://github.com/ayushichoudhary-19/DSA/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
