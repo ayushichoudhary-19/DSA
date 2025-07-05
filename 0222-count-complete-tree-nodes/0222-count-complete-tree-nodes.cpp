@@ -36,8 +36,7 @@ public:
         int rh = getRightHeight(root);
 
         if(lh == rh){
-            //means this subtree is a CBT
-            return pow(2,lh)-1;
+            return (1 << lh) - 1;
         }
 
         return 1 + countNodes(root->left) + countNodes(root->right);
