@@ -1,34 +1,37 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int data;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *      TreeNode(int val) : data(val) , left(nullptr) , right(nullptr) {}
+ * };
+ **/
+
 class Solution {
-public:
-    vector<vector<int>> verticalTraversal(TreeNode* root) {
-        if(root==NULL) return {};
-
-        queue<pair<TreeNode*,pair<int,int>>> q;
-        map<int, map <int, multiset <int> > > m;
-
-        q.push({root,{0,0}});
-        while(!q.empty()){
-            TreeNode* node = q.front().first;
-            int line = q.front().second.first;
-            int level = q.front().second.second;
-            q.pop();
-
-            m[line][level].insert(node->val);
-
-            if(node->left) q.push({node->left,{line - 1, level + 1}});
-            if(node->right) q.push({node->right,{line + 1, level + 1}});
+private:
+    void solve(map <int, vector<pair<int,int>>>  &colMap, TreeNode* root, int col, int row){
+        if(root == nullptr){
+            return;
         }
 
+        colMap[col].push_back({row, root->val});
+        solve(colMap, root->left, col - 1, row + 1);
+        solve(colMap, root->right, col + 1, row + 1);
+    }
+public:
+    vector<vector<int> > verticalTraversal(TreeNode* root) {
+    	vector<vector<int> > ans;
+        map <int, vector<pair<int,int>>> colMap;
+        solve(colMap, root, 0, 0);
 
-        vector<vector<int>> ans;
-
-        for(auto p:m){
-            vector<int> col;
-            for(auto q:p.second){
-                //concatinate a vector in another empty vector
-                col.insert(col.end(), q.second.begin(), q.second.end());
+        for(auto &it: colMap){
+            sort((it.second).begin(), (it.second).end());
+            vector<int> temp;
+            for(auto pair: it.second){
+                temp.push_back(pair.second);
             }
-            ans.push_back(col);
+            ans.push_back(temp);
         }
         return ans;
     }
