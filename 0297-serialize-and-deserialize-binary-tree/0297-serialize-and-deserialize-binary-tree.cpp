@@ -1,64 +1,50 @@
 class Codec {
-public:
-
-    // Encodes a tree to a single string.
-    string serialize(TreeNode* root) {
-        if(root == NULL) return "";
-
-        string s;
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty()){
-            TreeNode* node = q.front();
-            q.pop();
-
-            if(node == NULL){
-                s += "N,";
-            } else {
-                s += to_string(node->val) + ",";
-                q.push(node->left);
-                q.push(node->right);
-            }
+private:
+    void solve(TreeNode* root, string &ans){
+        if(!root){
+            ans += "N,";
+            return;
         }
-        return s;
+
+        ans += to_string(root->val) + ",";
+        solve(root->left, ans);
+        solve(root->right, ans);
     }
 
-    // Decodes your encoded data to tree.
+    TreeNode* build(vector<string>& nodes, int& idx){
+        if(idx >= nodes.size()) return nullptr;
+        if(nodes[idx] == "N"){
+            idx++;
+            return nullptr;
+        }
+
+        TreeNode* node = new TreeNode(stoi(nodes[idx]));
+        idx++;
+        node->left = build(nodes, idx);
+        node->right = build(nodes, idx);
+        return node;
+    }
+
+public:
+    string serialize(TreeNode* root) {
+        string ans;
+        solve(root, ans);
+        return ans;
+    }
+
     TreeNode* deserialize(string data) {
-        if(data.length() == 0) return NULL;
-        
-        stringstream s(data);
-        string num;
-        
-        getline(s, num, ',');
-        TreeNode *root = new TreeNode(stoi(num));
-        
-        queue<TreeNode*> q;
-        q.push(root);
-        
-        while(!q.empty()){
-            TreeNode* node = q.front();
-            q.pop();
-            
-            getline(s, num, ',');
-            if(num != "N"){
-                TreeNode *leftNode = new TreeNode(stoi(num));
-                node->left = leftNode;
-                q.push(leftNode);
-            }
-            
-            getline(s, num, ',');
-            if(num != "N"){
-                TreeNode *rightNode = new TreeNode(stoi(num));
-                node->right = rightNode;
-                q.push(rightNode);
+        vector<string> nodes;
+        string temp;
+
+        for(char c : data){
+            if(c == ','){
+                nodes.push_back(temp);
+                temp.clear();
+            } else {
+                temp += c;
             }
         }
-        return root;
+        int idx = 0; //to track curr node val in array
+        return build(nodes, idx);
     }
 };
-
-// Your Codec object will be instantiated and called as such:
-// Codec ser, deser;
-// TreeNode* ans = deser.deserialize(ser.serialize(root));
