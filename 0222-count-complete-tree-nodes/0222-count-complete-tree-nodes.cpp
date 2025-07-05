@@ -12,27 +12,18 @@
 class Solution {
 private:
     int getLeftHeight(TreeNode* root){
-        if(root == nullptr){
-            return 0;
-        }
         int lh = 0;
-
-        TreeNode* temp = root;
-        while(temp){
-            temp = temp ->left;
+        while(root){
+            root = root ->left;
             lh ++;
         }
         return lh;
     }
-        int getRightHeight(TreeNode* root){
-        if(root == nullptr){
-            return 0;
-        }
+    
+    int getRightHeight(TreeNode* root){
         int rh = 0;
-
-        TreeNode* temp = root;
-        while(temp){
-            temp = temp ->right;
+        while(root){
+            root = root ->right;
             rh ++;
         }
         return rh;
