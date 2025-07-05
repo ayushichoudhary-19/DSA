@@ -54,6 +54,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0059-spiral-matrix-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/ayushichoudhary-19/DSA/tree/master/0120-triangle) |
@@ -189,6 +190,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0012-integer-to-roman](https://github.com/ayushichoudhary-19/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushichoudhary-19/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
@@ -485,6 +487,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -554,6 +557,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -593,6 +597,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
