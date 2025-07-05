@@ -1,33 +1,27 @@
 class Solution {
+private:
+    void solve(map <int, multiset<pair<int,int>>>  &colMap, TreeNode* root, int col, int row){
+        if(root == nullptr){
+            return;
+        }
+
+        colMap[col].insert({row, root->val});
+        solve(colMap, root->left, col - 1, row + 1);
+        solve(colMap, root->right, col + 1, row + 1);
+    }
 public:
-    vector<vector<int>> verticalTraversal(TreeNode* root) {
+    vector<vector<int> > verticalTraversal(TreeNode* root) {
+    	vector<vector<int> > ans;
+        map <int, multiset<pair<int,int>>> colMap;
+        solve(colMap, root, 0, 0);
 
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<>> pq;
-
-        queue<tuple<TreeNode*, int, int>> q;
-        q.push({root, 0, 0});
-
-        while (!q.empty()) {
-            auto [node, row, col] = q.front(); q.pop();
-            if (node) {
-                pq.push({col, row, node->val});
-                q.push({node->left, row + 1, col - 1});
-                q.push({node->right, row + 1, col + 1});
+        for(auto &it: colMap){
+            vector<int> temp;
+            for(auto pair: it.second){
+                temp.push_back(pair.second);
             }
+            ans.push_back(temp);
         }
-
-        vector<vector<int>> ans;
-        map<int, vector<int>> colMap;
-
-        while (!pq.empty()) {
-            auto [col, row, val] = pq.top(); pq.pop();
-            colMap[col].push_back(val);
-        }
-
-        for (auto& [col, vec] : colMap) {
-            ans.push_back(vec);
-        }
-
         return ans;
     }
 };
