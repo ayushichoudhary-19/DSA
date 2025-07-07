@@ -1,29 +1,48 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int data;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int val) : data(val), left(nullptr), right(nullptr) {}
+ * };
+ **/
+
+class NodeValue {
+public:
+    int minval, maxval, sum;
+    NodeValue(int minval, int maxval, int sum){
+        this->minval = minval;
+        this->maxval = maxval;
+        this->sum = sum;
+    }
+};
 
 class Solution {
-    int answer=INT_MIN;
-    vector<int> solve (TreeNode* node){
-         //{0,1,2}->represents min,max,sum;
-         if(node==NULL){
-              return {INT_MAX,INT_MIN,0};
-          } 
-         vector< int> leftsolve=solve(node->left);
-         vector< int> rightsolve=solve(node->right);
+private:
+    int maxSum = 0; //because there can be a case where adding -ve valued new node brings sum down, so the root's sum at the end might not be the largest.
+    NodeValue solve(TreeNode* root) {
+        if (!root) {
+            return NodeValue(INT_MAX, INT_MIN, 0);
+        }
 
-         
-         if(leftsolve[1]>=node->val|| rightsolve[0]<=node->val)
-         {
-             return {INT_MIN,INT_MAX,0};
-         }
-        int res=leftsolve[2]+rightsolve[2]+node->val;
-        answer=max(answer,res);
+        NodeValue left = solve(root->left);
+        NodeValue right = solve(root->right);
 
-        return {min(node->val,leftsolve[0]),max(rightsolve[1],node->val),res};
+        if (left.maxval < root->val && root->val < right.minval) {
+            int currsum = root->val + left.sum + right.sum;
+            maxSum = max(currsum, maxSum);
+            int currMin = min(left.minval, root->val);
+            int currMax = max(right.maxval, root->val);
+            return NodeValue(currMin, currMax, currsum);
+        }
 
+        return NodeValue(INT_MIN, INT_MAX, max(left.sum, right.sum));
     }
+
 public:
     int maxSumBST(TreeNode* root) {
-         vector<int>ans=solve(root);
-        if(answer<0) return 0;
-        return answer;
+        int sum = solve(root).sum;
+        return maxSum;
     }
 };
