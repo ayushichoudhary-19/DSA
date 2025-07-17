@@ -1,54 +1,47 @@
-#include <vector>
-#include <queue>
-
-using namespace std;
-
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        // since we have to simultaneously rot all oranges, we use bfs
-        queue<pair<pair<int, int>, int>> rotten; //{(coordinates x,y), minutes}
-
-        int m = grid.size();
-        int n = grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
+        queue<pair<pair<int, int>, int>> q;
+        vector<vector<int>> vis(n, vector<int>(m, 0));
         int fresh = 0;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 2) {
-                    rotten.push({{i, j}, 0});
-                } else if (grid[i][j] == 1) {
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(grid[i][j] == 2) {
+                    q.push({{i, j}, 0});
+                    vis[i][j] = 1;
+                } else if(grid[i][j] == 1) {
                     fresh++;
                 }
             }
         }
 
-        if (fresh == 0) {
-            return 0; // No fresh oranges, no need to rot anything
-        }
-
-        int drow[] = {-1, 0, +1, 0};
+        int drow[] = {-1, 0, 1, 0};
         int dcol[] = {0, 1, 0, -1};
-        int tm = 0;
+        int time = 0;
+        int cnt = 0;
 
-        while (!rotten.empty()) {
-            int r = rotten.front().first.first;
-            int c = rotten.front().first.second;
-            int t = rotten.front().second;
-            rotten.pop();
-            tm = max(t, tm);
+        while(!q.empty()) {
+            int r = q.front().first.first;
+            int c = q.front().first.second;
+            int t = q.front().second;
+            q.pop();
+            time = max(time, t);
 
-            for (int i = 0; i < 4; i++) {
-                int nrow = r + drow[i];
-                int ncol = c + dcol[i];
-                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && grid[nrow][ncol] == 1) {
-                    fresh--;
-                    grid[nrow][ncol] = 2;
-                    rotten.push({{nrow, ncol}, t + 1});
+            for(int i = 0; i < 4; i++) {
+                int newr = r + drow[i];
+                int newc = c + dcol[i];
+                if(newr >= 0 && newr < n && newc >= 0 && newc < m &&
+                   !vis[newr][newc] && grid[newr][newc] == 1) {
+                    q.push({{newr, newc}, t + 1});
+                    vis[newr][newc] = 1;
+                    cnt++;
                 }
             }
         }
-
-        return (fresh == 0) ? tm : -1; // If there are still fresh oranges, return -1; otherwise, return minutes.
+        if(cnt != fresh) return -1;
+        return time;
     }
 };
