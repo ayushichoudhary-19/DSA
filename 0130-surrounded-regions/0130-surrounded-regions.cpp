@@ -1,65 +1,48 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& board, vector<vector<int>>& visited,int row, int col){
-      int m=board.size();
-      int n=board[0].size();
-      int delrow[]={-1,0,1,0};
-      int delcol[]={0,1,0,-1};
+    void solve(vector<vector<char>> &mat) {
+        int n = mat.size();
+        int m = mat[0].size();
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        queue<pair<int, int>> q;
 
-      for(int i=0;i<4;i++){
-          int nrow=row+delrow[i];
-          int ncol=col+delcol[i];
-          if(nrow>=0 && nrow<m && ncol>0 && ncol<n && board[nrow][ncol]=='O' && !visited[nrow][ncol]){
-            visited[nrow][ncol]=1;
-            dfs(board,visited,nrow,ncol);
-          }
-      }
-    }
-    void solve(vector<vector<char>>& board) {
-      int rows=board.size();
-      int cols=board[0].size();
-      vector<vector<int>> visited(rows,vector<int> (cols,0));
+        int delrow[] = {-1, 0, 1, 0};
+        int delcol[] = {0, 1, 0, -1};
 
-     //   check top border
-     for(int i=0;i<cols;i++){
-        if(board[0][i]=='O'){
-            visited[0][i]=1;
-            dfs(board,visited,0,i);
-        }
-    }
-    //   check right border
-     for(int i=0;i<rows;i++){
-        if(board[i][cols-1]=='O'){
-            visited[i][cols-1]=1;
-            dfs(board,visited,i,cols-1);
-        }
-    }
-     //   check bottom border
-     for(int i=0;i<cols;i++){
-        if(board[rows-1][i]=='O'){
-            visited[rows-1][i]=1;
-            dfs(board,visited,rows-1,i);
-        }
-    }
-
-        //   check left border
-     for(int i=0;i<rows;i++){
-        if(board[i][0]=='O'){
-            visited[i][0]=1;
-            dfs(board,visited,i,0);
-        }
-    }
-    
-    // flip
-    for(int i=0;i<rows;i++){
-        for(int j=0;j<cols;j++){
-            if(!visited[i][j]){
-                board[i][j]='X';
-            }
-            else{
-                board[i][j]='O';
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if((i == 0 || i == n - 1 || j == 0 || j == m - 1) &&
+                   mat[i][j] == 'O' && vis[i][j] == 0) {
+                    q.push({i, j});
+                    vis[i][j] = 1;
+                    mat[i][j] = 'Z';
+                }
             }
         }
-    }
+
+        while(!q.empty()) {
+            int row = q.front().first;
+            int col = q.front().second;
+            q.pop();
+
+            for(int d = 0; d < 4; d++) {
+                int nrow = row + delrow[d];
+                int ncol = col + delcol[d];
+
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
+                   mat[nrow][ncol] == 'O' && vis[nrow][ncol] == 0) {
+                    q.push({nrow, ncol});
+                    vis[nrow][ncol] = 1;
+                    mat[nrow][ncol] = 'Z';
+                }
+            }
+        }
+
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(mat[i][j] == 'Z') mat[i][j] = 'O';
+                else mat[i][j] = 'X';
+            }
+        }
     }
 };
