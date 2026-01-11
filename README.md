@@ -54,6 +54,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0059-spiral-matrix-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -141,6 +142,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0015-3sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ayushichoudhary-19/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushichoudhary-19/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayushichoudhary-19/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -275,6 +277,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ayushichoudhary-19/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
