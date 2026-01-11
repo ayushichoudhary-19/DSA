@@ -47,6 +47,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0011-container-with-most-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushichoudhary-19/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushichoudhary-19/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
@@ -272,6 +273,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0011-container-with-most-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushichoudhary-19/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ayushichoudhary-19/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
