@@ -70,6 +70,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushichoudhary-19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayushichoudhary-19/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ayushichoudhary-19/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0213-house-robber-ii) |
@@ -292,6 +293,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushichoudhary-19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushichoudhary-19/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
@@ -416,6 +418,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0069-sqrtx](https://github.com/ayushichoudhary-19/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushichoudhary-19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
