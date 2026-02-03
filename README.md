@@ -78,6 +78,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0229-majority-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ayushichoudhary-19/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayushichoudhary-19/DSA/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/ayushichoudhary-19/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ayushichoudhary-19/DSA/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/ayushichoudhary-19/DSA/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -152,6 +153,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0217-contains-duplicate](https://github.com/ayushichoudhary-19/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayushichoudhary-19/DSA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ayushichoudhary-19/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ayushichoudhary-19/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
@@ -745,4 +747,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushichoudhary-19/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ayushichoudhary-19/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
