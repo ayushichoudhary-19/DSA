@@ -1,23 +1,35 @@
 class RandomizedSet:
 
     def __init__(self):
-        self.set1 = set()
+        self.arr = []
+        self.pos = {}
 
     def insert(self, val: int) -> bool:
-        ans = val in self.set1
-        if ans == False:
-            self.set1.add(val)
-        return not ans
+        if val in self.pos:
+            return False
+        self.pos[val] = len(self.arr)
+        self.arr.append(val)
+        return True
 
     def remove(self, val: int) -> bool:
-        ans = val in self.set1
-        if ans == True:
-            self.set1.remove(val)
-        return ans
+        if val not in self.pos:
+            return False
+        idx = self.pos[val]
+        last = self.arr[-1]
+
+        #swap with last element
+        self.arr[idx] = last
+        self.pos[last] = idx
+
+        #remove last
+        self.arr.pop()
+        del self.pos[val]
+
+        return True
+
 
     def getRandom(self) -> int:
-        tup = tuple(self.set1)
-        return random.choice(tup)
+        return random.choice(self.arr)
         
 
 
