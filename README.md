@@ -759,4 +759,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayushichoudhary-19/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
