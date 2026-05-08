@@ -10,8 +10,8 @@ class Solution:
 
             if s[j].lower()!=s[i].lower():
                 return False
-            else:
-                i+=1
-                j-=1
+            
+            i+=1
+            j-=1
                 
         return True
