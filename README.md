@@ -301,6 +301,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0189-rotate-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushichoudhary-19/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -331,6 +332,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -457,6 +459,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0242-valid-anagram](https://github.com/ayushichoudhary-19/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/ayushichoudhary-19/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
