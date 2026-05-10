@@ -5,12 +5,13 @@ class Solution:
         m = len(t)
         if n != m: return False
 
-        count1 = Counter(s)
-        count2 = Counter(t)
-        if len(count1) !=len(count2): return False
-
-        for i in range(len(count1)):
-            if count1[i] != count2[i]:
+        word1, word2 = {},{}
+        for i in range(n):
+            
+            if word1.get(s[i],-1) != word2.get(t[i],-1):
                 return False
-
+            
+            word1[s[i]] = i
+            word2[t[i]] = i
+        
         return True
