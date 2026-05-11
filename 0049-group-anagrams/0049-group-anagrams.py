@@ -3,12 +3,16 @@ class Solution:
 
         mapping = {}
         for s in strs:
-            newS = "".join(sorted(s))
+            freq = [0]*26
 
-            if newS in mapping:
-                mapping[newS].append(s)
+            for ch in s:
+                freq[ord(ch) - ord('a')] += 1
+
+            
+            if tuple(freq) in mapping:
+                mapping[tuple(freq)].append(s)
             else:
-                mapping[newS] = [s]
+                mapping[tuple(freq)] = [s]
 
         ans = []
 
