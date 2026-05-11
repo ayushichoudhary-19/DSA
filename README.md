@@ -217,6 +217,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0217-contains-duplicate](https://github.com/ayushichoudhary-19/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayushichoudhary-19/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ayushichoudhary-19/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ayushichoudhary-19/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayushichoudhary-19/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -469,6 +470,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0205-isomorphic-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushichoudhary-19/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/ayushichoudhary-19/DSA/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/ayushichoudhary-19/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0392-is-subsequence) |
