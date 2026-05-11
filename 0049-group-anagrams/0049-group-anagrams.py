@@ -14,9 +14,4 @@ class Solution:
             else:
                 mapping[tuple(freq)] = [s]
 
-        ans = []
-
-        for key in mapping:
-            ans.append(mapping[key])
-
-        return ans
+        return list(mapping.values())
