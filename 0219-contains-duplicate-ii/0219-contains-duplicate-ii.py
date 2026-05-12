@@ -5,19 +5,17 @@ class Solution:
 
         i,j = 0,0
 
-        mapping = {}
+        count = set()
 
         while j < n:
-            if nums[j] in mapping:
-                return True
-                
-            else: 
-                mapping[nums[j]] = 1
-                j += 1
+            if j - i > k:
+                count.remove(nums[i])
+                i+=1
             
-            if len(mapping) > k:
-                del mapping[nums[i]]
-                i += 1
+            if nums[j] in count:
+                return True
+            count.add(nums[j])
+            j+=1
 
         return False
 
