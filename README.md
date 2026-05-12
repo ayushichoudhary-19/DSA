@@ -469,6 +469,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0038-count-and-say](https://github.com/ayushichoudhary-19/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ayushichoudhary-19/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/ayushichoudhary-19/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/ayushichoudhary-19/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0115-distinct-subsequences) |
