@@ -215,6 +215,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ayushichoudhary-19/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ayushichoudhary-19/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ayushichoudhary-19/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0229-majority-element-ii) |
@@ -307,6 +308,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushichoudhary-19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ayushichoudhary-19/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ayushichoudhary-19/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0392-is-subsequence) |
@@ -437,6 +439,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0070-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushichoudhary-19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ayushichoudhary-19/DSA/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayushichoudhary-19/DSA/tree/master/0380-insert-delete-getrandom-o1) |
