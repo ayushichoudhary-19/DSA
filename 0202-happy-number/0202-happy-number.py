@@ -13,12 +13,14 @@ class Solution:
 
 
     def isHappy(self, n: int) -> bool:
-        visit = set()
+        slow = self.sumSqDig(n)
+        fast = self.sumSqDig(self.sumSqDig(n))
 
-        while n not in visit:
-            visit.add(n)
-            n = self.sumSqDig(n)
-            if n == 1:
-                return True
+        while slow != fast:
+            if fast == 1: return True
 
-        return False
+
+            slow = self.sumSqDig(slow)
+            fast = self.sumSqDig(self.sumSqDig(fast))
+
+        return slow == 1
