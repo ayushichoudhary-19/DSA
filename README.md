@@ -54,6 +54,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ayushichoudhary-19/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayushichoudhary-19/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ayushichoudhary-19/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
