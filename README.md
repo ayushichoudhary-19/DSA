@@ -53,6 +53,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ayushichoudhary-19/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ayushichoudhary-19/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -153,6 +154,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0015-3sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayushichoudhary-19/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushichoudhary-19/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushichoudhary-19/DSA/tree/master/0217-contains-duplicate) |
