@@ -3,7 +3,6 @@ class Solution:
         points.sort()
         n = len(points)
         prevInterval = points[0]
-        i = 1
         arrows = 1
 
         for i in range(1,n):
