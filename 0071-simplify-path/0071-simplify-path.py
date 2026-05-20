@@ -12,26 +12,16 @@ class Solution:
             
             currStr = path[i:k]
 
-            if currStr == '/' or currStr == '.':
-                i = k+1
-                continue
+            if currStr == '' or currStr == '/' or currStr == '.':
+                pass
             
             elif currStr == '..':
-                if len(stack) > 0:
+                if stack:
                     stack.pop()
 
             else:
-                if currStr != '':
-                    stack.append(currStr)
+                stack.append(currStr)
 
             i = k+1
 
-        result = ''
-
-        for st in stack:
-            result += '/' + st
-        
-        if result == '':
-            return '/' 
-        else:
-            return result
+        return '/' + '/'.join(stack)
