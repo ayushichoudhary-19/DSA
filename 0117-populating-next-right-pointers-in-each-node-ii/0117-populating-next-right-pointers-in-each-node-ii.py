@@ -12,38 +12,26 @@ from collections import deque
 
 class Solution:
 
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        if root is None:
-            return []
+    def connect(self, root: 'Node') -> 'Node':
+        if root == None:
+            return None
 
         q = deque([root])
-        ans = []
 
         while q:
-            n = len(q)
-            level = []
+            prev = None
 
-            for _ in range(n):
+            for _ in range(len(q)):
                 node = q.popleft()
-                level.append(node)
+
+                if prev:
+                    prev.next = node
+
+                prev = node
 
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-
-            ans.append(level)
-
-        return ans
-
-    def connect(self, root: 'Node') -> 'Node':
-        
-        levels = self.levelOrder(root)
-
-        for level in levels:
-            for i in range(len(level)-1):
-                level[i].next = level[i+1]
-            
-            level[-1].next = None
                 
         return root
