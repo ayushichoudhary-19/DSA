@@ -5,29 +5,25 @@
 #         self.left = left
 #         self.right = right
 
-from collections import deque
-
 class BSTIterator:
-    def inorder(self,root,order):
-        if not root:
-            return
-
-        self.inorder(root.left,order)
-        order.append(root.val)
-        self.inorder(root.right,order)
-
-        return order
 
     def __init__(self, root: Optional[TreeNode]):
-        self.order = self.inorder(root,[])
-        self.q = deque(self.order)
+        self.stack = []
+        self.pushLeft(root)
+
+    def pushLeft(self,root):
+        if root:
+            self.stack.append(root)
+            self.pushLeft(root.left)
 
     def next(self) -> int:
-        node = self.q.popleft()
-        return node
+        node = self.stack.pop()
+        self.pushLeft(node.right)
+        return node.val
+
 
     def hasNext(self) -> bool:
-        return len(self.q) != 0
+        return len(self.stack) != 0
 
 
 
