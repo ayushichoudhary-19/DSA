@@ -4,6 +4,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+from collections import deque
+
 class BSTIterator:
     def inorder(self,root,order):
         if not root:
@@ -17,19 +20,14 @@ class BSTIterator:
 
     def __init__(self, root: Optional[TreeNode]):
         self.order = self.inorder(root,[])
-        self.index = 0
+        self.q = deque(self.order)
 
     def next(self) -> int:
-        node = self.order[self.index]
-        self.index += 1
+        node = self.q.popleft()
         return node
 
     def hasNext(self) -> bool:
-        if self.index >= len(self.order):
-            return False
-
-        else:
-            return True
+        return len(self.q) != 0
 
 
 
