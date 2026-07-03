@@ -5,14 +5,29 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    count = 0
+
+    def leftH(self,root):
+        if not root:
+            return 0
+
+        return 1 + self.leftH(root.left)
+
+    def rightH(self,root):
+        if not root:
+            return 0
+
+        return 1 + self.rightH(root.right)
+
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:
-            return self.count
+            return 0
 
-        self.count += 1
-        self.countNodes(root.left)
-        self.countNodes(root.right)
+        lh = self.leftH(root)
+        rh = self.rightH(root)
 
-        return self.count
+        if lh == rh:
+            return 2**lh - 1
+        else:
+            
+            return 1 +  self.countNodes(root.left) + self.countNodes(root.right)
         
