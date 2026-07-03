@@ -26,7 +26,9 @@ class Solution:
         rh = self.rightH(root)
 
         if lh == rh:
-            return 2**lh - 1
+            return (1 << lh) - 1
+
+            #1 << h shifts the binary 1 left by h positions, and since each left shift multiplies by 2, 1 << h = 2^h.
         else:
             
             return 1 +  self.countNodes(root.left) + self.countNodes(root.right)
