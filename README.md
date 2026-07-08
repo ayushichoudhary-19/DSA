@@ -418,6 +418,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
@@ -585,6 +586,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -627,6 +629,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -670,6 +673,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
