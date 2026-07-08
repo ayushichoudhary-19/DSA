@@ -8,34 +8,24 @@
 from collections import deque
 
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         ans = []
         if not root:
             return ans
 
         q = deque([root])
-
+        
         while q:
-            level = []
             n = len(q)
+
+            ans.append(q[-1].val)
 
             for _ in range(n):
                 node = q.popleft()
-                level.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            
-            ans.append(level)
 
         return ans
-
-    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        rightside = []
-        levels = self.levelOrder(root)
-
-        for level in levels:
-            rightside.append(level[-1])
-
-        return rightside
