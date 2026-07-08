@@ -16,14 +16,12 @@ class Solution:
             return ans
 
         q = deque([root])
-        levelnum = 0
+        lefttorightflag = False
         while q:
             level = []
-            # even levels are straight
-            levelnum += 1
             for _ in range(len(q)):
                 node = q.popleft()
-                if levelnum%2 == 0:
+                if lefttorightflag:
                     level.append(node.val)
                 else:
                     #inserts the value at the beginning of the list
@@ -33,7 +31,8 @@ class Solution:
                     q.append(node.right)
                 if node.left:
                     q.append(node.left)
-            
+
             ans.append(level)
+            lefttorightflag = not lefttorightflag
 
         return ans
