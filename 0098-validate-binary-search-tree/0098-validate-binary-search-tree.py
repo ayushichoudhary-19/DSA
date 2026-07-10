@@ -11,9 +11,9 @@ class Solution:
 
         self.helper(root.left)
 
-        if self.prev is not None:
-            if self.prev >= root.val:
-                self.ans = False
+        if self.prev is not None and self.prev >= root.val:
+            self.ans = False
+            return 
 
         self.prev = root.val
 
