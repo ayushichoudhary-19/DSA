@@ -422,6 +422,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -592,6 +593,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayushichoudhary-19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -635,6 +637,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -678,6 +681,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayushichoudhary-19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -714,6 +718,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayushichoudhary-19/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
