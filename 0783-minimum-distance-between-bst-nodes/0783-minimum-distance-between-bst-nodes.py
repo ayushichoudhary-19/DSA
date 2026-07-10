@@ -5,21 +5,22 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorder(self,root,order):
+    def inorder(self,root):
         if not root:
             return
         
-        self.inorder(root.left,order)
-        order.append(root.val)
-        self.inorder(root.right,order)
-
-        return order
+        self.inorder(root.left)
+        
+        if self.prev is not None:
+            self.mini = min(self.mini, root.val - self.prev)
+        
+        self.prev = root.val
+    
+        self.inorder(root.right)
 
     def minDiffInBST(self, root: Optional[TreeNode]) -> int:
-        order = []
-        order = self.inorder(root,order)
-        n = len(order)
-        mini = float('inf')
-        for i in range(1,n):
-            mini = min(mini,abs(order[i]-order[i-1]))
-        return mini
+        self.prev = None
+        self.mini = float('inf')
+        self.inorder(root)
+
+        return self.mini
