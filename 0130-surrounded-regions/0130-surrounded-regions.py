@@ -10,7 +10,7 @@ class Solution:
         delx = [0,1,0,-1]
         dely = [-1,0,1,0]
 
-        def dfs(x,y,board):
+        def dfs(x,y):
             newx = x
             newy = y
             for k in range(4):
@@ -19,32 +19,32 @@ class Solution:
 
                 if newx >= 0 and newx < m and newy>=0 and newy < n and board[newx][newy] == 'O':
                     board[newx][newy] = '#'
-                    dfs(newx,newy,board)
+                    dfs(newx,newy)
 
         #traverse the 4 corners
         i,j = 0,0
         for i in range(m):
             if board[i][j] == 'O':
                 board[i][j] = '#'
-                dfs(i,j,board)
+                dfs(i,j)
 
         j = n-1
         for i in range(m):
             if board[i][j] == 'O':
                 board[i][j] = '#'
-                dfs(i,j,board)
+                dfs(i,j)
 
         i = 0
         for j in range(n):
             if board[i][j] == 'O':
                 board[i][j] = '#'
-                dfs(i,j,board)
+                dfs(i,j)
 
         i = m-1
         for j in range(n):
             if board[i][j] == 'O':
                 board[i][j] = '#'
-                dfs(i,j,board)
+                dfs(i,j)
 
 
         #fill the whole board with correct values
