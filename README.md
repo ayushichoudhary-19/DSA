@@ -427,6 +427,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -647,6 +648,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -837,10 +839,12 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
