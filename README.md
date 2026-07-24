@@ -107,6 +107,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0907-koko-eating-bananas](https://github.com/ayushichoudhary-19/DSA/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -428,6 +429,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -442,6 +444,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayushichoudhary-19/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -650,6 +653,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -842,6 +846,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
