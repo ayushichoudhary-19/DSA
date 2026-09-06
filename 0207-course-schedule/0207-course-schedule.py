@@ -1,43 +1,37 @@
-from collections import defaultdict, deque
-# For a directed graph, cycle detection with BFS is done using indegree.
-
-# Idea
-# Count how many incoming edges each node has.
-# Put all nodes with indegree 0 into a queue.
-# Remove them one by one.
-# Every time you remove a node, decrease the indegree of its neighbors.
-# If a neighbor becomes 0, push it into the queue.
-# Count how many nodes you processed.
-# If you processed all nodes, there is no cycle.
-# If some nodes remain, they are part of a cycle.
-
-
+from collections import defaultdict
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        adj = defaultdict(list)
 
-        adjlist = defaultdict(list)
-        indegree = [0] * numCourses
+        for course,preq in prerequisites:
+            adj[preq].append(course)
 
-        for course, prerequisite in prerequisites:
-            adjlist[prerequisite].append(course)
-            indegree[course] += 1
+        visited = set()
+        path = set()
+        
 
-        q = deque()
+        def dfs(node):
+            if node in path:
+                return True
+            
+            if node in visited:
+                return False
+
+
+            visited.add(node)
+            path.add(node)
+
+            for nei in adj[node]:
+                if dfs(nei):
+                    return True
+            
+            path.remove(node)
+            return False
 
         for course in range(numCourses):
-            if indegree[course] == 0:
-                q.append(course)
+            if course not in visited:
+                if dfs(course):
+                    return False
+        
 
-        completed = 0
-
-        while q:
-            node = q.popleft()
-            for neig in adjlist[node]:
-                indegree[neig] -= 1
-
-                if indegree[neig] == 0:
-                    q.append(neig)
-
-            completed += 1
-
-        return completed == numCourses
+        return True
