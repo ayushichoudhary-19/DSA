@@ -1,40 +1,38 @@
+from collections import defaultdict
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        adj = defaultdict(list)
+        
+        for course, prereq in prerequisites:
+            adj[prereq].append(course)
+
         ans = []
-
-        adj = collections.defaultdict(list)
-
-        for u,v in prerequisites:
-            adj[u].append(v)
-
         visited = set()
         path = set()
 
         def dfs(node):
             if node in path:
+                # cycle found
                 return True
-            
             if node in visited:
+                # already visited
                 return False
-
+            
             visited.add(node)
             path.add(node)
 
             for nei in adj[node]:
                 if dfs(nei):
-                    #cycle is there
                     return True
-
+            
             path.remove(node)
             ans.append(node)
+
             return False
 
         for course in range(numCourses):
-            if course not in visited:
                 if dfs(course):
-                    #cycle exists
+                    #if dfs gives a cycle return []
                     return []
         
-        return ans
-            
-        
+        return ans[::-1]
