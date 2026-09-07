@@ -421,6 +421,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0210-course-schedule-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -643,6 +644,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -809,6 +811,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushichoudhary-19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bucket Sort
 |  |
@@ -854,6 +857,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0133-clone-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Directed Acyclic Graph
