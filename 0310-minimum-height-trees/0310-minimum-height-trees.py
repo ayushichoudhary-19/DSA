@@ -2,6 +2,14 @@ from collections import defaultdict, deque
 
 class Solution:
     def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
+        
+        # A tree has at most two MHT roots because the center of a tree is either one node or two adjacent nodes.
+
+
+        # keep removing the leaf nodes untill we are left with either 1 or 2 nodes in the graph which are the centres of the MHTs
+
+        # we need to do a small variation of the kahn's algo for topo sort
+        
         if n == 1:
             # single node
             return [0]
