@@ -4,7 +4,7 @@ class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
 
         heap = [(-1,start_node)] #probability of reaching starting node is 1 so fox max heap store -1
-        dist = [float('-inf')]*n
+        dist = [0]*n
         dist[start_node] = 1 #probability of reaching starting node is 1
         adjlist = defaultdict(list) 
 
@@ -19,6 +19,12 @@ class Solution:
             if curr_prob < dist[node]:
                 continue
             
+            
+            # we don't return when we merely discover/reach end_node; we return when end_node is popped from the max-heap.
+            if node == end_node:
+                return dist[end_node]
+
+
             for nei, prob in adjlist[node]:
                 newprob = curr_prob * prob
 
@@ -26,5 +32,5 @@ class Solution:
                     dist[nei] = newprob
                     heapq.heappush(heap,(-1*newprob,nei))
 
-        # if prob is still -inf then it is not rechable
+        # if prob is still 0 then it is not rechable
         return 0 if dist[end_node] == float('-inf') else dist[end_node]
