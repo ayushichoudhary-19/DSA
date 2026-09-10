@@ -3,14 +3,14 @@ import heapq
 
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        heap = [(0,k)]
-        dist = [float('inf')] * (n+1) #nodes are 1 indexed
-        dist[k] = 0
+        heap = [(0,k-1)]
+        dist = [float('inf')] * (n) 
+        dist[k-1] = 0 #nodes are 1 indexed so -1 in all nodes while storing in lists
 
         adjlist = defaultdict(list)
 
         for u,v,w in times:
-            adjlist[u].append((v,w))
+            adjlist[u-1].append((v-1,w))
 
         while heap:
 
@@ -26,4 +26,4 @@ class Solution:
                     dist[nei] = newtime
                     heapq.heappush(heap,(newtime,nei))
 
-        return -1 if max(dist[1:]) == float('inf') else max(dist[1:])
+        return -1 if max(dist) == float('inf') else max(dist)
