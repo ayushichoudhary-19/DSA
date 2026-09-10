@@ -19,7 +19,8 @@ class Solution:
             if curr_prob < dist[node]:
                 continue
             
-            
+            # what if yes i reached end node, but now their is some other path via some other node to end node with larger prob?
+            # Dijkstra guarantees that cannot happen when you pop end_node from the heap.
             # we don't return when we merely discover/reach end_node; we return when end_node is popped from the max-heap.
             if node == end_node:
                 return curr_prob
