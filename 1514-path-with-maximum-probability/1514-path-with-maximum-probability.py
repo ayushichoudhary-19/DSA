@@ -22,7 +22,7 @@ class Solution:
             
             # we don't return when we merely discover/reach end_node; we return when end_node is popped from the max-heap.
             if node == end_node:
-                return dist[end_node]
+                return curr_prob
 
 
             for nei, prob in adjlist[node]:
