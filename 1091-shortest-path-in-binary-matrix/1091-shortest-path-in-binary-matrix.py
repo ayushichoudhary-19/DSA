@@ -3,37 +3,29 @@ class Solution:
 
         if grid[0][0] == 1:
             return -1
-        heap = [(1,0,0)]
+        q = deque()
         n = len(grid)
+        q.append((1,0,0))
 
-        dist = [[float('inf')]* n for _ in range(n)]
-
-        dist[0][0] = 1
+        visited = set()
+        visited.add((0,0))
 
         delx = [1,1,0,-1,-1,-1,0,1]
         dely = [0,1,1,1,0,-1,-1,-1]
 
-        while heap:
-            currminlen, row, col = heapq.heappop(heap)
-
-            if currminlen > dist[row][col]:
-                continue
+        while q:
+            total,row,col = q.popleft()
 
             if row == n-1 and col == n-1:
-                return currminlen
+                return total
             
             for k in range(8):
                 newrow = row + delx[k]
                 newcol = col + dely[k]
 
-                if 0 <= newrow < n and 0 <= newcol < n and grid[newrow][newcol] == 0:
-                    newlen = currminlen + 1
-
-                    if newlen < dist[newrow][newcol]:
-                        dist[newrow][newcol] = newlen
-                        heapq.heappush(heap,(newlen,newrow,newcol))
+                if 0 <= newrow < n and 0 <= newcol < n and grid[newrow][newcol] == 0 and (newrow, newcol) not in visited:
+                    visited.add((newrow,newcol))
+                    q.append((total+1,newrow,newcol))
 
             
         return -1
-
-
