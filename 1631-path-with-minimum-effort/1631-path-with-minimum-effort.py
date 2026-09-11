@@ -22,6 +22,9 @@ class Solution:
             if curr_abs_diff > dist[row][col]:
                 continue
 
+            if row == m-1 and col ==n-1:
+                return curr_abs_diff
+
             for k in range(4):
                 new_row = row + delx[k]
                 new_col = col + dely[k]
@@ -36,7 +39,7 @@ class Solution:
                         heapq.heappush(heap,(new_abs_diff,new_row,new_col))
                 
 
-        return dist[m-1][n-1]
+        return 0
 
 
 
