@@ -112,6 +112,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ayushichoudhary-19/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1293-three-consecutive-odds](https://github.com/ayushichoudhary-19/DSA/tree/master/1293-three-consecutive-odds) |
@@ -441,6 +442,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ayushichoudhary-19/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushichoudhary-19/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -457,6 +459,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ayushichoudhary-19/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayushichoudhary-19/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
