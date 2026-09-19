@@ -1,17 +1,16 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        hashmap = {}
 
-        mapping = {}
-        for s in strs:
-            freq = [0]*26
-
-            for ch in s:
-                freq[ord(ch) - ord('a')] += 1
-
-            
-            if tuple(freq) in mapping:
-                mapping[tuple(freq)].append(s)
+        for word in strs:
+            temp = "".join(sorted(word))
+            if temp in hashmap:
+                hashmap[temp].append(word)
             else:
-                mapping[tuple(freq)] = [s]
+                hashmap[temp] = [word]
 
-        return list(mapping.values())
+        ans = []
+        for key in hashmap:
+            ans.append(hashmap[key])
+
+        return ans
