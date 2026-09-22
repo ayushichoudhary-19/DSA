@@ -3,7 +3,6 @@ class Solution:
         n = len(nums)
         [-2,1,-3,4,-1,2,1,-5,4]
         currsum = 0
-        #when we pick nothing it gives maxsum 0 for [] so atleast that is a maxsum
         maxsum = float('-inf')
 
         for i in range(n):
