@@ -111,6 +111,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0909-snakes-and-ladders](https://github.com/ayushichoudhary-19/DSA/tree/master/0909-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -253,6 +254,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0906-walking-robot-simulation](https://github.com/ayushichoudhary-19/DSA/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -578,6 +580,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0523-continuous-subarray-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayushichoudhary-19/DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
