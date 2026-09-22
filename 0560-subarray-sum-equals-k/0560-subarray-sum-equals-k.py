@@ -1,16 +1,18 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        count = 0
+        hashmap ={0:1}
         prefixsum = 0
-
-        hashmap = {0:1}
-
+        count = 0
         for num in nums:
-            prefixsum += num
-
-            if prefixsum - k in hashmap:
-                count += hashmap[prefixsum - k]
+            prefixsum = num + prefixsum
+            diff = prefixsum - k
             
+            if diff in hashmap:
+                count += hashmap[diff]
+                
             hashmap[prefixsum] = hashmap.get(prefixsum,0) + 1
-    
+
         return count
+
+
+        
