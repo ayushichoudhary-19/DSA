@@ -101,6 +101,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
@@ -246,6 +247,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0383-ransom-note](https://github.com/ayushichoudhary-19/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0460-lfu-cache) |
+| [0523-continuous-subarray-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
@@ -489,6 +491,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayushichoudhary-19/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0556-next-greater-element-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/ayushichoudhary-19/DSA/tree/master/1642-water-bottles) |
@@ -572,6 +575,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayushichoudhary-19/DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -913,4 +917,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
