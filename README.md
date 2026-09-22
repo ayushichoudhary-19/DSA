@@ -52,6 +52,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0031-next-permutation](https://github.com/ayushichoudhary-19/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ayushichoudhary-19/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ayushichoudhary-19/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushichoudhary-19/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayushichoudhary-19/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushichoudhary-19/DSA/tree/master/0057-insert-interval) |
@@ -341,6 +342,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0022-generate-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayushichoudhary-19/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ayushichoudhary-19/DSA/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/ayushichoudhary-19/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushichoudhary-19/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
@@ -744,6 +746,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayushichoudhary-19/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
