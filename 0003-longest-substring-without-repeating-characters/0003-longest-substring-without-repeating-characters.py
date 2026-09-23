@@ -1,20 +1,17 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        hashmap = {}
+        ans =  0
+
         i,j = 0,0
-        n = len(s)
-        ans = 0
-        track = {}
-        curr = 0
-   
-
-        while i<n and j<n and i<=j:
-            if s[j] in track and track[s[j]] >= i:
-                    i = track[s[j]] + 1
-                
-            track[s[j]] = j
+        while j < len(s) and i<=j:
+            if s[j] in hashmap:
+                # start new window from duplicate's already existing's next
+                i = max(i, hashmap[s[j]] + 1)
+            
+            ans = max(ans,j-i+1)
+            hashmap[s[j]] = j
+            
             j += 1
-
-            curr = j-i
-            ans = max(curr,ans)
-        
+                
         return ans
