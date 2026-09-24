@@ -1,55 +1,35 @@
-from collections import Counter
-
 class Solution:
-    def minWindow(self, s: str, t: str):
-        m = len(t)
-        n = len(s)
-
-        if m > n:
-            return ""
-
-        wordCount = Counter(t)
-        currCount = Counter()
-
-        need = len(wordCount)
-        have = 0
+    def minWindow(self, s: str, t: str) -> str:
+        
+        need = {}
+        window = {}
 
         minlen = float('inf')
-        ans = ""
+        start = 0
 
-        i, j = 0, 0
+        i=0
+        for char in t:
+            need[char] = need.get(char,0) + 1
 
-        currCount[s[j]] += 1
+        required = len(need)
+        formed = 0
 
-        if s[j] in wordCount and currCount[s[j]] == wordCount[s[j]]:
-            have += 1
+        for j in range(len(s)):
+            window[s[j]] = window.get(s[j],0) + 1
+            
+            if s[j] in need and window[s[j]] == need[s[j]]:
+                formed += 1
+            
+            while formed == required:
+                if j - i + 1 < minlen:
+                    minlen = j - i + 1
+                    start = i
 
-        while i < n and j < n and i <= j:
+                window[s[i]] -= 1
 
-            currStr = s[i:j+1]
-
-            if have == need:
-
-                currLen = j - i + 1
-
-                if currLen <= minlen:
-                    ans = currStr
-                    minlen = currLen
-
-                if s[i] in wordCount and currCount[s[i]] == wordCount[s[i]]:
-                    have -= 1
-
-                currCount[s[i]] -= 1
+                if s[i] in need and window[s[i]] < need[s[i]]:
+                    formed -= 1
+        
                 i += 1
-
-            else:
-                j += 1
-
-                if j < n:
-
-                    currCount[s[j]] += 1
-
-                    if s[j] in wordCount and currCount[s[j]] == wordCount[s[j]]:
-                        have += 1
-
-        return ans
+                
+        return "" if minlen == float('inf') else s[start:start + minlen]
