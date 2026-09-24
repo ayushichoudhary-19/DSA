@@ -23,4 +23,6 @@ class Solution:
                 count += j - i + 1
 
             return count
+
+        # atmost k means array has k = 3 means 3 types, atmost k-1 means atmost 2 distinct, so one with 1,2,3 distincts - 1,2 distincts is gonna be equal to exactly 3 distincts
         return atMost(k) - atMost(k-1)
