@@ -4,17 +4,29 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
-    def helper(self,root, totalSum,branchNum):
-        if not root:
-            return 0
+    def sumNumbers(self, root: TreeNode | None) -> int:
 
-        branchNum = branchNum * 10 + root.val
+        total = 0
+        curr = 0
+        def dfs(node,parent):
+            nonlocal total
+            if node is None:
+                return 0
 
-        if not root.left and not root.right:
-            return branchNum
+
+            curr = parent * 10 + node.val
+
+            if node.left is None and node.right is None:
+                total = total + curr
+                
+            if node.left:
+                dfs(node.left,curr)
+
+            if node.right:
+                dfs(node.right,curr)
+            
         
-        return self.helper(root.left,totalSum,branchNum) + self.helper(root.right,totalSum,branchNum)
-
-    def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        return self.helper(root,0,0)
+        dfs(root,0)
+        return total
