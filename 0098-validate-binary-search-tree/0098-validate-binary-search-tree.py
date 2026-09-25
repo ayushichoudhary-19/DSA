@@ -5,25 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def helper(self,root):
-        if not root:
-            return
+    def isValidBST(self, root: TreeNode | None) -> bool:
+        mini= float('-inf')
+        maxi = float('inf')
+        def dfs(root,mini,maxi):
+            if not root:
+                return True
+            
+            if not mini < root.val < maxi:
+                return False
+            
+            return dfs(root.left, mini, root.val) and dfs(root.right, root.val, maxi)
 
-        self.helper(root.left)
-
-        if self.prev is not None and self.prev >= root.val:
-            self.ans = False
-            return 
-
-        self.prev = root.val
-
-        self.helper(root.right)
-
-    
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        self.prev = None
-        self.ans = True
-        self.helper(root)
+            
         
-
-        return self.ans
+        return dfs(root,mini,maxi)
+                
