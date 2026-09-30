@@ -1,22 +1,17 @@
 class Solution:
-    def combine(self, n: int, k: int) -> List[List[int]]:
-        
-        ans = []
+    def __init__(self):
+        self.ans = []
 
-        def dfs(index):
-            if len(curr) == k:
-                ans.append(curr[:])
-                return
-            
-            if index == n+1:
-                return
+    def helper(self,start,end,curr,k):
+        if len(curr) == k:
+            self.ans.append(curr[:])
+            return
 
-            for i in range(index,n+1):
-                curr.append(i)
-                dfs(i+1)
-                curr.pop()
-            
-        index = 1
-        curr = []
-        dfs(index)
-        return ans
+        for i in range(start,end+1):
+            curr.append(i)
+            self.helper(i+1,end,curr,k)
+            curr.pop()
+
+    def combine(self, n: int, k: int) -> list[list[int]]:
+        self.helper(1,n,[],k)
+        return self.ans
