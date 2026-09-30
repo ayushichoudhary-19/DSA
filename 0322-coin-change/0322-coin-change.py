@@ -1,30 +1,38 @@
 class Solution:
 
     def coinChange(self, coins: list[int], amount: int) -> int:
-
+        ans = float('inf')
+        
         n = len(coins)
-        INF = float('inf')
+        dp = [[-1]*(n+1) for _ in range(amount+1)]
 
-        # dp[i][a] = minimum number of coins needed
-        # to make amount a using coins from index i onward.
-        dp = [[INF] * (amount + 1) for _ in range(n + 1)]
+        def dfs(amount,index):
+            nonlocal ans
 
-        # Base case: amount 0 requires 0 coins
-        for i in range(n + 1):
-            dp[i][0] = 0
+            # base case?
+            # minimuize the input: no coins in list to choose, amount sum is 0\
+            if amount == 0:
+                return 0
 
-        # Fill table
-        for i in range(n - 1, -1, -1):
-            for a in range(1, amount + 1):
+            # no coins left
+            if index == n:
+                return float('inf')
 
-                # Don't pick coin i
-                dp[i][a] = dp[i + 1][a]
+            # already solved
+            if dp[amount][index] != -1:
+                return dp[amount][index]
 
-                # Pick coin i
-                if coins[i] <= a:
-                    dp[i][a] = min(
-                        dp[i][a],
-                        1 + dp[i][a - coins[i]]
-                    )
+            pick = float('inf')
 
-        return dp[0][amount] if dp[0][amount] != INF else -1
+            # include current coin
+            if coins[index] <= amount:
+               pick = 1 + dfs(amount-coins[index],index)
+            # don't include the coin
+            dontpick = dfs(amount,index+1)
+
+            dp[amount][index] = min(pick,dontpick)
+            return dp[amount][index]
+
+        ans = dfs(amount,0)
+        
+        return ans if ans!= float('inf') else -1
