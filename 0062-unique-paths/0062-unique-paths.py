@@ -1,13 +1,13 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         
-        dp = [[-1]*(n+1) for _ in range(m+1)]
+        dp = [[-1]*(n) for _ in range(m)]
 
         def dfs(row,col):
             if row == m-1 and col == n-1:
                 return 1
 
-            if row > m or col > n:
+            if row >= m or col >= n:
                 return 0
             
             if dp[row][col] != -1:
