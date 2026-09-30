@@ -955,4 +955,12 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
