@@ -1,27 +1,30 @@
 class Solution:
-
-    def letterCombinations(self, digits: str) -> List[str]:
-        mapping = {
-            '2' : ['a','b','c'],
-            '3' : ['d','e','f'],
-            '4' : ['g','h','i'],
-            '5' : ['j','k','l'],
-            '6' : ['m','n','o'],
-            '7' : ['p','q','r','s'],
-            '8' : ['t','u','v'],
-            '9' : ['w','x','y','z']
+    def __init__(self):
+        self.mapp = {
+            "2": "abc",
+            "3": "def",
+            "4": "ghi",
+            "5": "jkl",
+            "6": "mno",
+            "7": "pqrs",
+            "8": "tuv",
+            "9": "wxyz"
         }
-        
-        ans = []
-        currword = ''
-        def dfs(start, currword):
-            if len(currword) == len(digits):
-                ans.append(currword[:])
-                return
-            
-            digit = digits[start]
-            for letter in mapping[digit]:
-                dfs(start+1,currword + letter)
 
-        dfs(0,currword)
-        return ans
+        self.ans = []
+
+    def helper(self,digits,currstr):
+        if digits == '':
+            self.ans.append(currstr)
+            return
+
+        ch = digits[0]
+        digits = digits[1:]
+        for char in self.mapp[ch]:
+            self.helper(digits,currstr+char)
+        
+
+
+    def letterCombinations(self, digits: str) -> list[str]:
+        self.helper(digits,'')
+        return self.ans
