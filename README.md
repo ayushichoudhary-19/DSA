@@ -57,6 +57,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0056-merge-intervals](https://github.com/ayushichoudhary-19/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushichoudhary-19/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayushichoudhary-19/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -361,6 +362,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0053-maximum-subarray](https://github.com/ayushichoudhary-19/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushichoudhary-19/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushichoudhary-19/DSA/tree/master/0072-edit-distance) |
@@ -477,6 +479,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
