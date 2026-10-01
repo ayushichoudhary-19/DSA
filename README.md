@@ -72,6 +72,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushichoudhary-19/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ayushichoudhary-19/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushichoudhary-19/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -242,6 +243,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ayushichoudhary-19/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ayushichoudhary-19/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ayushichoudhary-19/DSA/tree/master/0202-happy-number) |
@@ -375,6 +377,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ayushichoudhary-19/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayushichoudhary-19/DSA/tree/master/0198-house-robber) |
@@ -551,6 +554,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0091-decode-ways](https://github.com/ayushichoudhary-19/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0205-isomorphic-strings) |
@@ -616,6 +620,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushichoudhary-19/DSA/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 ## String Matching
 |  |
@@ -825,6 +830,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -974,4 +980,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
