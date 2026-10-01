@@ -4,26 +4,33 @@ class Solution:
         m, n = len(matrix), len(matrix[0])
 
         dp = [[float('inf')]* (n) for _ in range(m)]
-        def dfs(row, col):
-            if col < 0 or col >= n:
-                return float('inf')
 
-            if row == m - 1:
-                return matrix[row][col]
+        # base case
+        # only one row
+        # STATE: minimum sum starting at given row,col
+        for col in range(n):
+            dp[m-1][col] = matrix[m-1][col]
 
-            if dp[row][col] != float('inf'):
-                return dp[row][col]
+        for row in range(m-2,-1,-1):
+            for col in range(n):
+                digleft,down,digright = float('inf'),float('inf'),float('inf')
 
-            dp[row][col] = matrix[row][col] + min(
-                dfs(row + 1, col - 1),
-                dfs(row + 1, col),
-                dfs(row + 1, col + 1)
-            )
-            return dp[row][col]
+                if col > 0:
+                    digleft = dp[row + 1][col - 1]
+
+                if col < n-1:
+                    digright = dp[row + 1][col + 1]
+
+                down = dp[row + 1][col]
+                dp[row][col] = matrix[row][col] + min(
+                    digleft,
+                    down,
+                    digright
+                )
 
         ans = float('inf')
 
         for col in range(n):
-            ans = min(ans, dfs(0, col))
+            ans = min(ans, dp[0][col])
 
         return ans
