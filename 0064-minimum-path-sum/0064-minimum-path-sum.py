@@ -1,27 +1,21 @@
 class Solution:
     def minPathSum(self, grid: list[list[int]]) -> int:
-        INF = float('inf')
-        ans = float('inf')
-        m = len(grid)
-        n = len(grid[0])
+        m, n = len(grid), len(grid[0])
+        dp = [[0] * n for _ in range(m)]
 
-        dp = [[-1]*n for _ in range(m)]
+        dp[0][0] = grid[0][0]
 
-        def dfs(row,col):
-            nonlocal ans
+        for col in range(1, n):
+            dp[0][col] = dp[0][col - 1] + grid[0][col]
 
-            if row == m-1 and col == n-1:
-                return grid[m-1][n-1]
-            
-            if row >= m or col >=n:
-                return float('inf')
+        for row in range(1, m):
+            dp[row][0] = dp[row - 1][0] + grid[row][0]
 
-            if dp[row][col] != -1:
-                return dp[row][col]
+        for row in range(1, m):
+            for col in range(1, n):
+                dp[row][col] = grid[row][col] + min(
+                    dp[row - 1][col],
+                    dp[row][col - 1]
+                )
 
-            dp[row][col] = grid[row][col]+min(dfs(row+1,col),
-                        dfs(row,col+1)
-                    )
-            return dp[row][col]
-
-        return dfs(0,0)
+        return dp[m - 1][n - 1]
