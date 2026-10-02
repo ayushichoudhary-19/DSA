@@ -12,24 +12,21 @@ class Solution:
         target = int(total/2)
 
         dp = [[-1]*(target+1) for _ in range(n+1)]
+        
+        for currsum in range(target+1):
+            dp[n][currsum] = False
+        
+        for idx in range(n+1):
+            dp[idx][target] = True
 
-        def dfs(idx,currsum):
+        for idx in range(n-1,-1,-1):
+            for currsum in range(target-1,-1,-1):
+                    take = False
+                    if currsum + nums[idx] <= target:
+                        take = dp[idx+1][currsum+nums[idx]]
 
-            if currsum > target:
-                return False
+                    dont_take = dp[idx+1][currsum]
 
-            if currsum == target:
-                return True
-            
-            # we can reach the target at final element too so we do that check before below check
-            if idx == n:
-                return False
+                    dp[idx][currsum] = take or dont_take
 
-            if dp[idx][currsum] != -1:
-                return dp[idx][currsum]
-
-                                         # take                  #dont take
-            dp[idx][currsum] = dfs(idx+1,currsum+nums[idx]) or dfs(idx+1,currsum)
-            return dp[idx][currsum]
-
-        return dfs(0,0)
+        return dp[0][0]
