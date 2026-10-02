@@ -1,27 +1,20 @@
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
-        arr1 = []
-        arr2 = []
 
-        def dfs(i,curr,mainstr,arr):
+        def dfs(i,j):
             
-            if i == len(mainstr):
-                arr.append(curr[:])
-                return
+            if i == len(text1):
+                return 0
+            
+            if j == len(text2):
+                return 0
 
-            #take
-            dfs(i+1,curr + mainstr[i],mainstr,arr)
 
-            #not take
-            dfs(i+1,curr,mainstr,arr)
+            if text1[i] == text2[j]:
+                #this letter can be a part of common subsequence
+                return 1 + dfs(i+1,j+1)
 
-        dfs(0,"",text1,arr1)
-        dfs(0,"",text2,arr2)
-
-        maxlen = 0
-        #now compare to get longest string common in both
-        for subseq in arr2:
-            if subseq in arr1:
-                maxlen = max(maxlen,len(subseq))
-        
-        return maxlen
+            else:
+                return max(dfs(i+1,j), dfs(i,j+1))
+            
+        return dfs(0,0)
