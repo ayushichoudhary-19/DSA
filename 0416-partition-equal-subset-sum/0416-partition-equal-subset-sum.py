@@ -11,22 +11,21 @@ class Solution:
 
         target = int(total/2)
 
-        dp = [[-1]*(target+1) for _ in range(n+1)]
+        prev = [False]*(target+1)
         
-        for currsum in range(target+1):
-            dp[n][currsum] = False
-        
-        for idx in range(n+1):
-            dp[idx][target] = True
+        prev[target] = True
 
         for idx in range(n-1,-1,-1):
+            curr = [False]*(target+1)
             for currsum in range(target-1,-1,-1):
                     take = False
                     if currsum + nums[idx] <= target:
-                        take = dp[idx+1][currsum+nums[idx]]
+                        take = prev[currsum+nums[idx]]
 
-                    dont_take = dp[idx+1][currsum]
+                    dont_take = prev[currsum]
 
-                    dp[idx][currsum] = take or dont_take
+                    curr[currsum] = take or dont_take
 
-        return dp[0][0]
+            prev = curr
+
+        return prev[0]
