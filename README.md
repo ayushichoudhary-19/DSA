@@ -60,6 +60,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0063-unique-paths-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayushichoudhary-19/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ayushichoudhary-19/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0088-merge-sorted-array) |
@@ -783,6 +784,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushichoudhary-19/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/ayushichoudhary-19/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ayushichoudhary-19/DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0494-target-sum) |
 ## Divide and Conquer
@@ -820,6 +822,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushichoudhary-19/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0371-sum-of-two-integers) |
