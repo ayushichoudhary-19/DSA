@@ -399,6 +399,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -574,6 +575,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0583-delete-operation-for-two-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -990,4 +992,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
