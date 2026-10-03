@@ -140,6 +140,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushichoudhary-19/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushichoudhary-19/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -195,6 +196,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushichoudhary-19/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushichoudhary-19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
@@ -406,6 +408,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1463-cherry-pickup-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/ayushichoudhary-19/DSA/tree/master/1511-count-number-of-teams) |
+| [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushichoudhary-19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1007,4 +1010,5 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
 <!---LeetCode Topics End-->
