@@ -3,7 +3,7 @@ class Solution:
         
         n = len(scores)
 
-        dp = [[0]*(n+1) for _ in range(n+1)]
+        dp = [0]*(n+1)
         # in dp, the last chosen index j can be from -1 to n-1 so i have to make it shift index from 0 to n, so i do +1 in dp array (not in score/age)
         
 
@@ -23,10 +23,10 @@ class Solution:
                 take = 0
 
                 if j == -1 or scores[i] >= scores[j]:
-                    take = scores[i] + dp[i+1][i+1]
+                    take = scores[i] + dp[i+1]
 
-                dont_take = dp[i+1][j+1]
+                dont_take = dp[j+1]
 
-                dp[i][j+1] = max(dont_take, take)
+                dp[j+1] = max(dont_take, take)
 
-        return dp[0][-1+1]
+        return max(dp)
