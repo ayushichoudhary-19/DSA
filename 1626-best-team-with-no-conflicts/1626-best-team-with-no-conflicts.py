@@ -17,27 +17,16 @@ class Solution:
         ages = [age for age,score in players]
         scores = [score for age,score in players]
 
-        for i in range(n-1,-1,-1):
-            for j in range(i-1,-2,-1):
+        for i in range(n-1, -1, -1):
+            for j in range(i-1, -2, -1):
 
                 take = 0
-                
-                if j == -1:
+
+                if j == -1 or scores[i] >= scores[j]:
                     take = scores[i] + dp[i+1][i+1]
 
-                else:
-                    # if no conflict
-                    if ages[i] >= ages[j]:
-                        if scores[i] >= scores[j]:
-                            take = scores[i] + dp[i+1][i+1]
+                dont_take = dp[i+1][j+1]
 
-                    else:
-                        if scores[i] <= scores[j]:
-                            take = scores[i] + dp[i+1][i+1]
-                    
-
-                dont_take = 0 + dp[i+1][j+1]
-
-                dp[i][j+1] = max(dont_take,take)
+                dp[i][j+1] = max(dont_take, take)
 
         return dp[0][-1+1]
