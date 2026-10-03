@@ -3,26 +3,45 @@ class Solution:
 
         n = len(nums)
 
-        dp = [1] * n
-        count = [1] * n
+        prev = [0] * (n+1)
+        prev_count = [1] * (n+1)
 
-        for i in range(n):
-            for j in range(i):
+        # as last taken index can be from -1 to n-1 so we have n+1 options
+        # but we do index shift by making +1, so that -1 is represented by 0
+        # in dp and so on
 
-                if nums[j] < nums[i]:
+        for i in range(n-1,-1,-1):
 
-                    if dp[j] + 1 > dp[i]:
-                        dp[i] = dp[j] + 1
-                        count[i] = count[j]
+            curr = [0] * (n+1)
+            curr_count = [0] * (n+1)
 
-                    elif dp[j] + 1 == dp[i]:
-                        count[i] += count[j]
+            for lasttakenidx in range(i-1,-2,-1):
 
-        maxlen = max(dp)
+                # take in subsequence
+                take = -1
+                take_count = 0
 
-        ans = 0
-        for i in range(n):
-            if dp[i] == maxlen:
-                ans += count[i]
+                if lasttakenidx == -1 or nums[lasttakenidx] < nums[i]:
+                    take = 1 + prev[i+1]
+                    take_count = prev_count[i+1]
 
-        return ans
+                # don't take
+                dont_take = prev[lasttakenidx+1]
+                dont_take_count = prev_count[lasttakenidx+1]
+
+                if take > dont_take:
+                    curr[lasttakenidx+1] = take
+                    curr_count[lasttakenidx+1] = take_count
+
+                elif dont_take > take:
+                    curr[lasttakenidx+1] = dont_take
+                    curr_count[lasttakenidx+1] = dont_take_count
+
+                else:
+                    curr[lasttakenidx+1] = take
+                    curr_count[lasttakenidx+1] = take_count + dont_take_count
+
+            prev = curr
+            prev_count = curr_count
+
+        return prev_count[0]
