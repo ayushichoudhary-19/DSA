@@ -3,7 +3,7 @@ class Solution:
         
         n = len(scores)
 
-        dp = [[-1]*(n+1) for _ in range(n)]
+        dp = [[0]*(n+1) for _ in range(n+1)]
         # in dp, the last chosen index j can be from -1 to n-1 so i have to make it shift index from 0 to n, so i do +1 in dp array (not in score/age)
         
 
@@ -17,34 +17,27 @@ class Solution:
         ages = [age for age,score in players]
         scores = [score for age,score in players]
 
-        def dfs(i,j):
+        for i in range(n-1,-1,-1):
+            for j in range(i-1,-2,-1):
 
-            if i == n:
-                return 0
-
-            if dp[i][j+1] != -1:
-                return dp[i][j+1]
-            
-            take = 0
-            
-            if j == -1:
-                take = scores[i] + dfs(i+1,i)
-
-            else:
-                # if no conflict
-                if ages[i] >= ages[j]:
-                    if scores[i] >= scores[j]:
-                        take = scores[i] + dfs(i+1,i)
+                take = 0
+                
+                if j == -1:
+                    take = scores[i] + dp[i+1][i+1]
 
                 else:
-                    if scores[i] <= scores[j]:
-                        take = scores[i] + dfs(i+1,i)
-                
+                    # if no conflict
+                    if ages[i] >= ages[j]:
+                        if scores[i] >= scores[j]:
+                            take = scores[i] + dp[i+1][i+1]
 
-            dont_take = 0 + dfs(i+1,j)
+                    else:
+                        if scores[i] <= scores[j]:
+                            take = scores[i] + dp[i+1][i+1]
+                    
 
-            dp[i][j+1] = max(dont_take,take)
-            return dp[i][j+1]
+                dont_take = 0 + dp[i+1][j+1]
 
+                dp[i][j+1] = max(dont_take,take)
 
-        return dfs(0,-1)
+        return dp[0][-1+1]
