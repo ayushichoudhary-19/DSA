@@ -10,6 +10,10 @@ class Solution:
             if l > r:
                 return 0
 
+            
+            if l == r:
+                return 1
+
             if dp[l][r] != -1:
                 return dp[l][r]
 
