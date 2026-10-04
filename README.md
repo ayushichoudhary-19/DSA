@@ -143,6 +143,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ayushichoudhary-19/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushichoudhary-19/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ayushichoudhary-19/DSA/tree/master/1803-average-waiting-time) |
@@ -172,6 +173,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushichoudhary-19/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ayushichoudhary-19/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushichoudhary-19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
@@ -411,6 +413,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/ayushichoudhary-19/DSA/tree/master/1511-count-number-of-teams) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ayushichoudhary-19/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushichoudhary-19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -608,6 +611,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushichoudhary-19/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushichoudhary-19/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ayushichoudhary-19/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushichoudhary-19/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushichoudhary-19/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayushichoudhary-19/DSA/tree/master/2134-maximize-the-confusion-of-an-exam) |
