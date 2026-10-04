@@ -99,6 +99,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayushichoudhary-19/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/ayushichoudhary-19/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayushichoudhary-19/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -191,6 +192,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0274-h-index](https://github.com/ayushichoudhary-19/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ayushichoudhary-19/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/ayushichoudhary-19/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushichoudhary-19/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
@@ -393,6 +395,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayushichoudhary-19/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ayushichoudhary-19/DSA/tree/master/0338-counting-bits) |
+| [0354-russian-doll-envelopes](https://github.com/ayushichoudhary-19/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -604,6 +607,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0222-count-complete-tree-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/ayushichoudhary-19/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/ayushichoudhary-19/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -1017,6 +1021,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/ayushichoudhary-19/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
 ## Segment Tree
