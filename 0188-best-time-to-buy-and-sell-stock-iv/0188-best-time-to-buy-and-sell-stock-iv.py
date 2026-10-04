@@ -2,31 +2,35 @@ class Solution:
     def maxProfit(self, k: int, prices: list[int]) -> int:
         
         n = len(prices)
-        dp = [[[-1]* 2 for _ in range(k+1)] for _ in range(n)]
+        dp = [[-1]* (2*k) for _ in range(n)]
 
-        def dfs(i,times,canbuy):
-
+        def dfs(i,transaction):
             if i == n :
                 return 0
 
-            if times == k:
+            if transaction == 2*k:
                 return 0
+                
 
-            if dp[i][times][canbuy] != -1:
-                return dp[i][times][canbuy]
+            if dp[i][transaction] != -1:
+                return dp[i][transaction]
 
+            canbuy = False
+            if transaction%2 == 0:
+                canbuy = True
+            
             profit = 0
             if canbuy:
                 # can buy then i buy or not buy
-                profit = max ( -prices[i] + dfs(i+1,times,0) , 0 + dfs(i+1,times,1) )
+                profit = max ( -prices[i] + dfs(i+1,transaction+1) , 0 + dfs(i+1,transaction) )
 
             else:
                 # can sell or can not sell
-                profit = max( prices[i] + dfs(i+1,times+1,1) , 0 + dfs(i+1,times,0))
+                profit = max( prices[i] + dfs(i+1,transaction+1) , 0 + dfs(i+1,transaction))
 
-            dp[i][times][canbuy] = profit
-            return dp[i][times][canbuy]
+            dp[i][transaction]= profit
+            return dp[i][transaction]
 
-        return dfs(0,0,1)
+        return dfs(0,0)
 
         
