@@ -410,6 +410,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -591,6 +592,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/ayushichoudhary-19/DSA/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ayushichoudhary-19/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ayushichoudhary-19/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
