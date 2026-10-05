@@ -126,6 +126,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayushichoudhary-19/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushichoudhary-19/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -408,6 +409,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayushichoudhary-19/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1030,4 +1032,12 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayushichoudhary-19/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/ayushichoudhary-19/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
