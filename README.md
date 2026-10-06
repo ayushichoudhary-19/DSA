@@ -103,6 +103,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0354-russian-doll-envelopes](https://github.com/ayushichoudhary-19/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayushichoudhary-19/DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayushichoudhary-19/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushichoudhary-19/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayushichoudhary-19/DSA/tree/master/0455-assign-cookies) |
@@ -490,6 +491,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ayushichoudhary-19/DSA/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -592,6 +594,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/ayushichoudhary-19/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushichoudhary-19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/ayushichoudhary-19/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -739,6 +742,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayushichoudhary-19/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -913,6 +917,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -962,6 +967,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0128-longest-consecutive-sequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -974,6 +980,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
@@ -1057,4 +1064,12 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayushichoudhary-19/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
