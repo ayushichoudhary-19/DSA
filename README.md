@@ -389,6 +389,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayushichoudhary-19/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ayushichoudhary-19/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ayushichoudhary-19/DSA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -575,6 +576,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0091-decode-ways](https://github.com/ayushichoudhary-19/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ayushichoudhary-19/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ayushichoudhary-19/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushichoudhary-19/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayushichoudhary-19/DSA/tree/master/0165-compare-version-numbers) |
@@ -810,6 +812,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0077-combinations](https://github.com/ayushichoudhary-19/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushichoudhary-19/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayushichoudhary-19/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0494-target-sum) |
 ## Divide and Conquer
