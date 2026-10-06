@@ -1,38 +1,35 @@
-from collections import defaultdict
 class Solution:
-    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        adj = defaultdict(list)
+    def findOrder(self, numCourses: int, prerequisites: list[list[int]]) -> list[int]:
         
-        for course, prereq in prerequisites:
-            adj[prereq].append(course)
+        adj = defaultdict(list)
+
+        indegree = [0]*numCourses
+
+        for v,u in prerequisites:
+            adj[u].append(v)
+            indegree[v] += 1
+        
+        visited = set()
+        q = deque()
+
+        for node in range(numCourses):
+            if indegree[node]==0:
+                q.append(node)
+
 
         ans = []
-        visited = set()
-        path = set()
 
-        def dfs(node):
-            if node in path:
-                # cycle found
-                return True
-            if node in visited:
-                # already visited
-                return False
+        while q:
             
+            node = q.popleft()
+            ans.append(node)
             visited.add(node)
-            path.add(node)
 
             for nei in adj[node]:
-                if dfs(nei):
-                    return True
+                if nei not in visited:
+                    indegree[nei] -=1
+                    if indegree[nei] == 0:
+                        q.append(nei)
             
-            path.remove(node)
-            ans.append(node)
 
-            return False
-
-        for course in range(numCourses):
-                if dfs(course):
-                    #if dfs gives a cycle return []
-                    return []
-        
-        return ans[::-1]
+        return [] if sum(indegree)!=0 else ans
