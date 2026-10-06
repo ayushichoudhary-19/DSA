@@ -2,32 +2,37 @@ class Solution:
     def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
         
         visited = set()
-        path = set()
 
         adj = defaultdict(list)
-        for u, v in prerequisites:
+
+        indegree = [0]*numCourses
+
+        for v, u in prerequisites:
             adj[u].append(v)
-
-        def dfs(node):
-
-            visited.add(node)
-            path.add(node)
-
-            for neigh in adj[node]:
-
-                if neigh not in visited:
-                    if not dfs(neigh):
-                        return False
-                    
-                if neigh in path:
-                    return False
-            
-            path.remove(node)
-            return True
+            indegree[v] += 1
+        
+        q = deque()
 
         for node in range(numCourses):
-            if node not in visited:
-                if not dfs(node):
-                    return False
+            if indegree[node] == 0:
+                q.append(node)
+
+        while q:
+            node = q.popleft()
+
+            for nei in adj[node]:
+                indegree[nei] -= 1
+
+                if indegree[nei] == 0:
+                    q.append(nei)
+                    
+        return sum(indegree) == 0
+
+
+            
+
+
+
+            
+
         
-        return True
