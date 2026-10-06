@@ -506,6 +506,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushichoudhary-19/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
@@ -756,6 +757,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushichoudhary-19/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -963,6 +965,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -975,6 +978,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Directed Acyclic Graph
 |  |
