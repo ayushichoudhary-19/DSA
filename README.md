@@ -500,6 +500,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/ayushichoudhary-19/DSA/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/ayushichoudhary-19/DSA/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -754,6 +755,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/ayushichoudhary-19/DSA/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushichoudhary-19/DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -983,6 +985,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/ayushichoudhary-19/DSA/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
