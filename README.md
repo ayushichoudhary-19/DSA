@@ -124,6 +124,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0966-binary-subarrays-with-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/ayushichoudhary-19/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/ayushichoudhary-19/DSA/tree/master/1036-rotting-oranges) |
@@ -413,6 +414,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0808-number-of-matching-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0808-number-of-matching-subsequences) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/ayushichoudhary-19/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/ayushichoudhary-19/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/ayushichoudhary-19/DSA/tree/master/1170-shortest-common-supersequence) |
