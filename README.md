@@ -503,6 +503,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushichoudhary-19/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushichoudhary-19/DSA/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/ayushichoudhary-19/DSA/tree/master/0909-snakes-and-ladders) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
@@ -761,6 +762,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushichoudhary-19/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushichoudhary-19/DSA/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -937,6 +939,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushichoudhary-19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bucket Sort
@@ -994,6 +997,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushichoudhary-19/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ayushichoudhary-19/DSA/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -1085,4 +1089,12 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
