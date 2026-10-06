@@ -165,6 +165,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [3463-alternating-groups-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushichoudhary-19/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/ayushichoudhary-19/DSA/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +293,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushichoudhary-19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushichoudhary-19/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/ayushichoudhary-19/DSA/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Design
 |  |
 | ------- |
@@ -935,6 +937,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0992-subarrays-with-k-different-integers](https://github.com/ayushichoudhary-19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ayushichoudhary-19/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/ayushichoudhary-19/DSA/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Quickselect
 |  |
 | ------- |
