@@ -113,6 +113,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0560-subarray-sum-equals-k](https://github.com/ayushichoudhary-19/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushichoudhary-19/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayushichoudhary-19/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/ayushichoudhary-19/DSA/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushichoudhary-19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushichoudhary-19/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -496,6 +497,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ayushichoudhary-19/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -520,6 +522,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ayushichoudhary-19/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/ayushichoudhary-19/DSA/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -750,6 +753,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushichoudhary-19/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ayushichoudhary-19/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ayushichoudhary-19/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/ayushichoudhary-19/DSA/tree/master/0743-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -970,6 +974,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ayushichoudhary-19/DSA/tree/master/0399-evaluate-division) |
+| [0695-max-area-of-island](https://github.com/ayushichoudhary-19/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
