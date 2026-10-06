@@ -1,7 +1,6 @@
 class Solution:
     def partitionArray(self, nums: List[int], k: int) -> bool:
 
-        numset = set(nums)
         n = len(nums)
 
         if n%k != 0:
