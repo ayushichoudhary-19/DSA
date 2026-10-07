@@ -1001,6 +1001,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0841-keys-and-rooms](https://github.com/ayushichoudhary-19/DSA/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Directed Acyclic Graph
@@ -1008,6 +1009,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushichoudhary-19/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Graph Coloring
 |  |
 | ------- |
