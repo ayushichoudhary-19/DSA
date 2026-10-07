@@ -291,6 +291,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayushichoudhary-19/DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayushichoudhary-19/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2374-node-with-highest-edge-score](https://github.com/ayushichoudhary-19/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushichoudhary-19/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushichoudhary-19/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushichoudhary-19/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1004,6 +1005,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/ayushichoudhary-19/DSA/tree/master/1615-maximal-network-rank) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/ayushichoudhary-19/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Directed Acyclic Graph
 |  |
