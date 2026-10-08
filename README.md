@@ -515,6 +515,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushichoudhary-19/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
@@ -773,6 +774,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1484-linked-list-in-binary-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushichoudhary-19/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -943,6 +945,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushichoudhary-19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1005,6 +1008,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/ayushichoudhary-19/DSA/tree/master/1615-maximal-network-rank) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2374-node-with-highest-edge-score](https://github.com/ayushichoudhary-19/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Directed Acyclic Graph
@@ -1013,6 +1017,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushichoudhary-19/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph Coloring
 |  |
 | ------- |
