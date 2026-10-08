@@ -145,6 +145,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1511-count-number-of-teams](https://github.com/ayushichoudhary-19/DSA/tree/master/1511-count-number-of-teams) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1591-strange-printer-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1591-strange-printer-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushichoudhary-19/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushichoudhary-19/DSA/tree/master/1626-best-team-with-no-conflicts) |
@@ -536,6 +537,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushichoudhary-19/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayushichoudhary-19/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1591-strange-printer-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ayushichoudhary-19/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/2411-spiral-matrix-iv) |
@@ -944,6 +946,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0310-minimum-height-trees](https://github.com/ayushichoudhary-19/DSA/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
+| [1591-strange-printer-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1591-strange-printer-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushichoudhary-19/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Bucket Sort
@@ -1006,6 +1009,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1591-strange-printer-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1591-strange-printer-ii) |
 | [1615-maximal-network-rank](https://github.com/ayushichoudhary-19/DSA/tree/master/1615-maximal-network-rank) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1017,6 +1021,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0207-course-schedule](https://github.com/ayushichoudhary-19/DSA/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushichoudhary-19/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1591-strange-printer-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1591-strange-printer-ii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph Coloring
 |  |
