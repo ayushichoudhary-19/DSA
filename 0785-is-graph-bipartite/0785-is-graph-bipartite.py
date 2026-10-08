@@ -1,28 +1,26 @@
+from collections import deque
+
 class Solution:
-    def isBipartite(self, graph: List[List[int]]) -> bool:
+    def isBipartite(self, graph: list[list[int]]) -> bool:
         colors = {}
         total = len(graph)
-
-        def dfs(node):
-            for nei in graph[node]:
-                if nei not in colors:
-                    if colors[node] == 'A':
-                        colors[nei] = 'B'
-                    else:
-                        colors[nei] = 'A'
-                    
-                    if not dfs(nei):
-                        return False
+        
+        for u in range(total):
+            if u in colors:
+                continue
                 
-                elif colors[nei] == colors[node]:
-                    return False
-
-            return True
-         
-        for node in range(total):
-            if node not in colors:
-                colors[node] = 'A'
-                if not dfs(node):
-                    return False
-
+            q = deque([u])
+            colors[u] = 'A'
+            
+            while q:
+                node = q.popleft()
+                
+                for v in graph[node]:
+                    if v not in colors:
+                        colors[v] = 'B' if colors[node] == 'A' else 'A'
+                        q.append(v)
+                    else:
+                        if colors[v] == colors[node]:
+                            return False
+                            
         return True
