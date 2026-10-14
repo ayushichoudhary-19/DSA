@@ -1,29 +1,29 @@
-from collections import defaultdict
-import heapq
-
 class Solution:
-    def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        heap = [(0,k-1)]
-        dist = [float('inf')] * (n) 
-        dist[k-1] = 0 #nodes are 1 indexed so -1 in all nodes while storing in lists
+    def networkDelayTime(self, times: list[list[int]], n: int, k: int) -> int:
 
-        adjlist = defaultdict(list)
+
+        distance = [float('inf')] * (n+1)
+
+        adj = defaultdict(list)
 
         for u,v,w in times:
-            adjlist[u-1].append((v-1,w))
+            adj[u].append((v,w))
 
-        while heap:
+        q = [(0,k)]
+        distance[k] = 0
 
-            curr_time, node = heapq.heappop(heap)
+        while q:
 
-            if curr_time > dist[node]:
+            currwt, node = heapq.heappop(q)
+
+            if currwt > distance[node]:
                 continue
 
-            for nei, weight in adjlist[node]:
-                newtime = curr_time + weight
+            for nei,w in adj[node]:
+                if distance[nei] > currwt + w:
+                    distance[nei] = currwt+w
+                    heapq.heappush(q,(currwt+w,nei))
 
-                if newtime < dist[nei]:
-                    dist[nei] = newtime
-                    heapq.heappush(heap,(newtime,nei))
-
-        return -1 if max(dist) == float('inf') else max(dist)
+        
+        ans = max(distance[1:])
+        return ans if ans < float('inf') else -1
