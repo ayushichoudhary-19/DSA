@@ -145,6 +145,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1511-count-number-of-teams](https://github.com/ayushichoudhary-19/DSA/tree/master/1511-count-number-of-teams) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayushichoudhary-19/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1591-strange-printer-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1591-strange-printer-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushichoudhary-19/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushichoudhary-19/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -993,6 +994,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0695-max-area-of-island](https://github.com/ayushichoudhary-19/DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ayushichoudhary-19/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ayushichoudhary-19/DSA/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ayushichoudhary-19/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ayushichoudhary-19/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -1013,6 +1015,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [1462-course-schedule-iv](https://github.com/ayushichoudhary-19/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/ayushichoudhary-19/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushichoudhary-19/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1591-strange-printer-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/1591-strange-printer-ii) |
 | [1615-maximal-network-rank](https://github.com/ayushichoudhary-19/DSA/tree/master/1615-maximal-network-rank) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushichoudhary-19/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1116,4 +1119,20 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ayushichoudhary-19/DSA/tree/master/0802-find-eventual-safe-states) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
