@@ -1140,4 +1140,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ayushichoudhary-19/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
