@@ -61,6 +61,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayushichoudhary-19/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ayushichoudhary-19/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushichoudhary-19/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushichoudhary-19/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ayushichoudhary-19/DSA/tree/master/0088-merge-sorted-array) |
@@ -527,6 +528,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0059-spiral-matrix-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushichoudhary-19/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ayushichoudhary-19/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ayushichoudhary-19/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayushichoudhary-19/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ayushichoudhary-19/DSA/tree/master/0695-max-area-of-island) |
@@ -592,6 +594,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0071-simplify-path](https://github.com/ayushichoudhary-19/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ayushichoudhary-19/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ayushichoudhary-19/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ayushichoudhary-19/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ayushichoudhary-19/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushichoudhary-19/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushichoudhary-19/DSA/tree/master/0125-valid-palindrome) |
@@ -727,6 +730,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayushichoudhary-19/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushichoudhary-19/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayushichoudhary-19/DSA/tree/master/0099-recover-binary-search-tree) |
@@ -839,6 +843,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | [0022-generate-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/ayushichoudhary-19/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushichoudhary-19/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushichoudhary-19/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayushichoudhary-19/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ayushichoudhary-19/DSA/tree/master/0257-binary-tree-paths) |
