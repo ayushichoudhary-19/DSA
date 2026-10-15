@@ -841,6 +841,7 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushichoudhary-19/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ayushichoudhary-19/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayushichoudhary-19/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayushichoudhary-19/DSA/tree/master/0079-word-search) |
@@ -1144,4 +1145,8 @@ Join me on this coding adventure, and let's master DSA together! 💻📝 Happy 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushichoudhary-19/DSA/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/ayushichoudhary-19/DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
