@@ -24,4 +24,4 @@ class Solution:
 
                 maxcount = max(maxcount,count)
             
-            return maxcount
+        return maxcount
